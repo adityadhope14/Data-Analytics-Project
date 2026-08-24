@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,City,Region,Annual Income,Total Purchases,Total Spending,Average Order Value,Purchase Frequency,Last Purchase Date,Recency,Preferred Category,Customer Type
+CUST-0001,18,Male,Seattle,West,61176.76,1,69.86,69.86,1,2026-05-18,98,Office Supplies,Returning
+CUST-0002,27,Female,Spokane,West,100817.08,1,138.43,138.43,1,2026-08-20,4,Fashion,New
+CUST-0003,53,Male,Dallas,Central,67366.78,19,2273.57,119.66,12,2026-06-16,69,Furniture,Returning
+CUST-0004,43,Male,Atlanta,South,106078.74,4,545.38,136.35,3,2026-04-28,118,Office Supplies,New
+CUST-0005,38,Female,Seattle,West,81249.27,12,1110.76,92.56,8,2026-08-06,18,Groceries,Loyal
+CUST-0006,27,Female,Spokane,West,84643.12,17,1228.08,72.24,14,2026-06-14,71,Fashion,Returning
+CUST-0007,40,Female,Denver,Central,53036.57,7,643.58,91.94,6,2026-06-13,72,Furniture,Loyal
+CUST-0008,29,Male,Houston,Central,77005.01,3,341.57,113.86,2,2026-08-15,9,Technology,Returning
+CUST-0009,32,Male,Austin,Central,93171.83,15,2438.65,162.58,9,2026-04-22,124,Home Essentials,Returning
+CUST-0010,43,Female,New York City,East,67736.82,12,937.14,78.09,12,2026-06-12,73,Fashion,Loyal
+CUST-0011,27,Male,Portland,West,74571.17,1,84.63,84.63,1,2026-05-24,92,Groceries,New
+CUST-0012,44,Female,San Diego,West,84227.17,10,1083.4,108.34,10,2026-08-10,14,Technology,Returning
+CUST-0013,63,Male,Cambridge,East,80400.92,12,1944.02,162.0,9,2026-01-26,210,Office Supplies,New
+CUST-0014,31,Male,Miami,South,63606.98,12,1555.23,129.6,7,2026-08-20,4,Home Essentials,Returning
+CUST-0015,38,Male,Springfield,Central,80512.6,9,1094.64,121.63,7,2026-08-10,14,Home Essentials,Returning
+CUST-0016,20,Female,Pittsburgh,East,106668.41,1,136.32,136.32,1,2026-07-25,30,Furniture,New
+CUST-0017,35,Female,Cambridge,East,89405.73,6,895.72,149.29,4,2026-04-22,124,Fashion,New
+CUST-0018,20,Male,Buffalo,East,97907.4,19,1856.36,97.7,15,2026-08-16,8,Groceries,Returning
+CUST-0019,26,Female,Charlotte,South,92611.98,1,66.92,66.92,1,2026-07-19,36,Technology,Returning
+CUST-0020,45,Female,Philadelphia,East,75669.02,11,710.47,64.59,6,2026-02-28,177,Home Essentials,New
+CUST-0021,35,Female,Savannah,South,94485.82,16,1227.92,76.75,14,2026-07-13,42,Technology,Returning
+CUST-0022,38,Female,Spokane,West,68967.89,17,1757.94,103.41,10,2026-08-10,14,Furniture,Returning
+CUST-0023,33,Male,Orlando,South,73696.52,22,2014.77,91.58,13,2026-08-04,20,Fashion,Loyal
+CUST-0024,29,Male,San Francisco,West,58489.37,19,1900.1,100.01,15,2026-05-10,106,Technology,Loyal
+CUST-0025,39,Male,Raleigh,South,102147.09,13,2156.79,165.91,8,2026-08-16,8,Technology,Returning
+CUST-0026,36,Other,Denver,Central,80280.02,15,987.88,65.86,15,2026-08-18,6,Technology,Loyal
+CUST-0027,40,Male,Buffalo,East,53690.75,17,1622.25,95.43,10,2026-07-10,45,Fashion,Returning
+CUST-0028,59,Female,Miami,South,60790.42,6,839.72,139.95,6,2026-07-02,53,Groceries,Returning
+CUST-0029,41,Female,Springfield,Central,68681.23,11,1037.67,94.33,7,2026-08-08,16,Office Supplies,New
+CUST-0030,44,Female,Buffalo,East,65926.28,9,918.26,102.03,7,2026-08-12,12,Furniture,Loyal
+CUST-0031,18,Male,Austin,Central,70309.76,11,1738.13,158.01,6,2026-08-13,11,Technology,New
+CUST-0032,43,Female,Chicago,Central,70498.8,1,54.36,54.36,1,2026-04-03,143,Technology,New
+CUST-0033,66,Female,Buffalo,East,40476.92,10,1212.46,121.25,6,2026-07-21,34,Office Supplies,Loyal
+CUST-0034,23,Female,Portland,West,55251.51,1,154.54,154.54,1,2026-08-05,19,Technology,New
+CUST-0035,26,Female,San Francisco,West,73111.95,14,1495.76,106.84,8,2026-08-18,6,Technology,Returning
+CUST-0036,30,Female,Miami,South,40445.29,26,1935.22,74.43,16,2026-07-11,44,Technology,Returning
+CUST-0037,47,Female,Raleigh,South,69133.69,1,116.9,116.9,1,2026-07-13,42,Furniture,New
+CUST-0038,45,Male,Boulder,Central,73808.06,8,690.44,86.3,8,2026-08-03,21,Fashion,Returning
+CUST-0039,29,Male,Pittsburgh,East,77674.03,11,1195.27,108.66,6,2026-08-02,22,Furniture,Returning
+CUST-0040,48,Female,Charlotte,South,119591.7,8,817.2,102.15,8,2026-07-02,53,Home Essentials,New
+CUST-0041,48,Female,Portland,West,96360.37,12,1231.7,102.64,10,2026-03-28,149,Groceries,Returning
+CUST-0042,38,Female,Spokane,West,55965.27,6,447.45,74.58,5,2026-06-21,64,Groceries,Returning
+CUST-0043,33,Male,Seattle,West,60780.46,12,1236.76,103.06,9,2026-08-07,17,Office Supplies,Returning
+CUST-0044,28,Female,Los Angeles,West,48848.56,14,1621.0,115.79,8,2026-07-06,49,Groceries,Returning
+CUST-0045,41,Female,Miami,South,116661.6,8,1090.72,136.34,5,2026-07-06,49,Furniture,New
+CUST-0046,25,Male,Springfield,Central,31302.33,1,105.48,105.48,1,2025-12-31,236,Technology,New
+CUST-0047,25,Female,Springfield,Central,57926.27,3,429.95,143.32,3,2026-08-23,1,Fashion,New
+CUST-0048,50,Male,Austin,Central,119412.67,6,747.35,124.56,5,2026-06-08,77,Office Supplies,Returning
+CUST-0049,18,Female,Seattle,West,104146.44,12,1638.57,136.55,11,2026-08-13,11,Home Essentials,Returning
+CUST-0050,35,Female,Boston,East,47977.78,10,977.33,97.73,10,2026-07-25,30,Furniture,New
+CUST-0051,47,Female,Chicago,Central,68794.52,8,651.93,81.49,5,2026-06-11,74,Office Supplies,Loyal
+CUST-0052,43,Male,Boulder,Central,51100.59,8,824.33,103.04,7,2026-08-18,6,Home Essentials,Returning
+CUST-0053,60,Female,New York City,East,88451.11,7,559.41,79.92,7,2026-08-12,12,Technology,Returning
+CUST-0054,30,Female,Cambridge,East,96654.4,1,100.45,100.45,1,2026-06-06,79,Furniture,New
+CUST-0055,30,Male,Pittsburgh,East,22000,23,1574.14,68.44,15,2026-07-20,35,Technology,Loyal
+CUST-0056,23,Female,Dallas,Central,93246.7,17,1810.93,106.53,15,2026-04-19,127,Groceries,Returning
+CUST-0057,18,Male,Los Angeles,West,71510.7,1,114.24,114.24,1,2026-08-12,12,Home Essentials,New
+CUST-0058,18,Male,Eugene,West,60958.91,1,133.73,133.73,1,2026-08-12,12,Groceries,New
+CUST-0059,44,Male,Los Angeles,West,103566.04,17,2169.7,127.63,11,2026-07-06,49,Furniture,Loyal
+CUST-0060,48,Male,Boston,East,56671.73,4,683.36,170.84,3,2026-07-25,30,Groceries,Returning
+CUST-0061,32,Female,Savannah,South,72451.24,4,628.61,157.15,4,2026-07-11,44,Technology,Returning
+CUST-0062,32,Male,Boulder,Central,57078.43,1,81.28,81.28,1,2026-04-21,125,Office Supplies,New
+CUST-0063,24,Male,San Francisco,West,55231.11,6,905.95,150.99,6,2025-11-26,271,Groceries,Returning
+CUST-0064,44,Female,Raleigh,South,90582.11,10,1361.79,136.18,6,2026-08-19,5,Furniture,Returning
+CUST-0065,42,Male,Pittsburgh,East,102540.67,11,1689.7,153.61,8,2026-06-02,83,Fashion,Returning
+CUST-0066,49,Male,Dallas,Central,52212.07,1,117.25,117.25,1,2025-09-21,337,Technology,Returning
+CUST-0067,22,Female,Springfield,Central,84153.92,8,751.89,93.99,5,2026-05-30,86,Fashion,New
+CUST-0068,43,Female,Chicago,Central,56825.39,1,88.56,88.56,1,2026-07-26,29,Groceries,New
+CUST-0069,21,Female,Atlanta,South,68140.26,10,1124.01,112.4,8,2026-07-11,44,Furniture,Returning
+CUST-0070,29,Female,Miami,South,109319.57,13,1511.85,116.3,7,2026-04-20,126,Technology,Returning
+CUST-0071,18,Female,Eugene,West,106914.55,10,1115.24,111.52,6,2026-07-11,44,Furniture,Returning
+CUST-0072,18,Female,Springfield,Central,67036.02,10,1461.8,146.18,10,2026-06-22,63,Home Essentials,Returning
+CUST-0073,39,Female,Raleigh,South,102820.45,23,3268.57,142.11,17,2026-08-23,1,Groceries,Loyal
+CUST-0074,27,Female,New York City,East,79224.01,1,80.68,80.68,1,2026-05-22,94,Groceries,New
+CUST-0075,23,Female,Portland,West,53145.99,15,1969.04,131.27,10,2026-01-13,223,Home Essentials,Returning
+CUST-0076,45,Female,Buffalo,East,60443.63,1,101.37,101.37,1,2026-07-18,37,Office Supplies,Returning
+CUST-0077,36,Female,Savannah,South,67208.4,1,129.85,129.85,1,2026-07-19,36,Groceries,New
+CUST-0078,37,Male,Eugene,West,103194.9,3,259.67,86.56,2,2026-05-18,98,Office Supplies,Returning
+CUST-0079,36,Female,Savannah,South,78128.06,3,464.17,154.72,2,2026-08-09,15,Groceries,New
+CUST-0080,38,Male,Cambridge,East,57417.07,9,1177.47,130.83,6,2026-07-22,33,Technology,Returning
+CUST-0081,24,Female,Springfield,Central,72181.25,9,816.79,90.75,8,2026-08-14,10,Groceries,Returning
+CUST-0082,44,Female,Austin,Central,46102.32,24,2205.51,91.9,15,2026-08-18,6,Groceries,Loyal
+CUST-0083,41,Male,Eugene,West,67374.25,8,1125.11,140.64,5,2026-03-18,159,Furniture,New
+CUST-0084,39,Male,Austin,Central,59422.16,7,517.09,73.87,5,2026-07-11,44,Furniture,New
+CUST-0085,31,Female,Denver,Central,45943.69,12,1956.06,163.01,11,2026-08-18,6,Technology,Returning
+CUST-0086,24,Male,Dallas,Central,71605.15,5,521.0,104.2,3,2026-07-17,38,Technology,New
+CUST-0087,28,Female,Savannah,South,78297.22,11,1961.04,178.28,9,2026-06-09,76,Groceries,Returning
+CUST-0088,31,Male,Cambridge,East,,7,1101.34,157.33,5,2026-08-05,19,Groceries,Returning
+CUST-0089,41,Female,Springfield,Central,91823.25,8,1361.37,170.17,6,2026-08-17,7,Furniture,New
+CUST-0090,44,Male,Pittsburgh,East,47169.51,17,1700.81,100.05,12,2026-04-04,142,Technology,Returning
+CUST-0091,41,Female,New York City,East,46716.98,8,751.44,93.93,5,2026-08-17,7,Fashion,Returning
+CUST-0092,18,Female,Spokane,West,95590.31,1,113.06,113.06,1,2026-07-07,48,Technology,Returning
+CUST-0093,25,Female,Eugene,West,83933.87,9,754.19,83.8,7,2026-05-20,96,Home Essentials,Returning
+CUST-0094,47,Female,Eugene,West,79909.81,1,117.5,117.5,1,2026-07-23,32,Groceries,New
+CUST-0095,53,Male,New York City,East,81943.99,16,2209.3,138.08,11,2026-07-06,49,Home Essentials,Returning
+CUST-0096,40,Male,Pittsburgh,East,124933.34,14,2004.65,143.19,9,2026-07-20,35,Home Essentials,New
+CUST-0097,22,Male,Chicago,Central,95956.36,12,937.94,78.16,8,2026-07-05,50,Office Supplies,Returning
+CUST-0098,18,Male,Austin,Central,54386.1,10,990.43,99.04,7,2026-06-07,78,Groceries,Returning
+CUST-0099,44,Female,Denver,Central,76057.87,3,339.42,113.14,2,2026-08-20,4,Technology,Returning
+CUST-0100,30,Male,Dallas,Central,69330.8,5,643.72,128.74,3,2026-05-24,92,Furniture,Loyal
+CUST-0101,35,Female,Los Angeles,West,81237.36,15,1820.28,121.35,8,2026-08-18,6,Technology,Returning
+CUST-0102,38,Male,Spokane,West,77530.11,9,891.7,99.08,9,2025-12-20,247,Office Supplies,Returning
+CUST-0103,28,Male,Denver,Central,67549.97,10,882.83,88.28,7,2025-09-02,356,Fashion,New
+CUST-0104,33,Female,Dallas,Central,61850.57,10,1381.66,138.17,6,2026-07-04,51,Furniture,Returning
+CUST-0105,39,Male,Spokane,West,62346.44,11,1396.44,126.95,7,2026-08-23,1,Groceries,Returning
+CUST-0106,35,Female,Atlanta,South,82875.42,15,1670.69,111.38,10,2026-02-21,184,Home Essentials,Returning
+CUST-0107,58,Female,Miami,South,22000,13,1463.78,112.6,10,2026-07-12,43,Furniture,Loyal
+CUST-0108,32,Male,Cambridge,East,69683.2,1,169.89,169.89,1,2026-07-31,24,Technology,New
+CUST-0109,27,Male,Austin,Central,101620.9,5,518.36,103.67,4,2026-07-10,45,Fashion,New
+CUST-0110,30,Female,Charlotte,South,82060.81,8,801.7,100.21,6,2026-01-19,217,Groceries,Returning
+CUST-0111,27,Male,Dallas,Central,81335.49,14,1754.39,125.31,11,2026-07-05,50,Home Essentials,Returning
+CUST-0112,24,Female,Eugene,West,103774.13,3,399.87,133.29,3,2026-07-14,41,Furniture,Returning
+CUST-0113,24,Male,Springfield,Central,74207.46,17,1866.36,109.79,13,2026-08-08,16,Technology,Returning
+CUST-0114,56,Female,Raleigh,South,92610.99,7,1035.56,147.94,7,2026-07-20,35,Groceries,Returning
+CUST-0115,32,Male,Raleigh,South,60347.61,5,739.71,147.94,5,2026-08-17,7,Technology,Returning
+CUST-0116,37,Male,Los Angeles,West,71579.79,9,1388.26,154.25,7,2026-06-10,75,Technology,New
+CUST-0117,25,Female,Chicago,Central,46261.51,9,958.83,106.54,8,2026-07-25,30,Fashion,Returning
+CUST-0118,27,Male,Orlando,South,83444.93,8,668.19,83.52,8,2026-07-29,26,Fashion,Loyal
+CUST-0119,35,Female,San Diego,West,103223.56,21,2027.24,96.54,12,2026-06-19,66,Furniture,Loyal
+CUST-0120,37,Male,Cambridge,East,46710.57,14,1569.74,112.12,8,2026-02-19,186,Groceries,Returning
+CUST-0121,42,Male,Raleigh,South,34427.75,7,442.86,63.27,6,2026-07-04,51,Fashion,Returning
+CUST-0122,49,Female,Austin,Central,56075.33,8,342.03,42.75,7,2026-07-25,30,Fashion,Returning
+CUST-0123,18,Female,Tampa,South,85493.89,24,2857.3,119.05,13,2026-06-10,75,Home Essentials,New
+CUST-0124,35,Male,Eugene,West,74424.18,4,484.0,121.0,4,2026-05-04,112,Technology,New
+CUST-0125,55,Male,Atlanta,South,36422.58,6,585.3,97.55,5,2026-08-23,1,Fashion,Returning
+CUST-0126,21,Male,Cambridge,East,73015.52,17,2562.01,150.71,10,2026-06-26,59,Technology,Returning
+CUST-0127,21,Female,Miami,South,75448.57,25,2801.18,112.05,14,2026-07-06,49,Home Essentials,Loyal
+CUST-0128,44,Female,Denver,Central,90580.05,17,2730.77,160.63,9,2026-05-25,91,Technology,Returning
+CUST-0129,60,Male,Orlando,South,75815.86,3,314.47,104.82,2,2026-08-02,22,Office Supplies,New
+CUST-0130,21,Female,Austin,Central,86613.14,1,97.41,97.41,1,2025-11-17,280,Fashion,New
+CUST-0131,48,Male,Eugene,West,76124.9,15,1675.68,111.71,10,2026-04-27,119,Home Essentials,Loyal
+CUST-0132,51,Male,New York City,East,73611.1,3,356.92,118.97,2,2026-08-23,1,Fashion,New
+CUST-0133,40,Female,Savannah,South,97014.27,2,263.4,131.7,2,2026-07-05,50,Technology,New
+CUST-0134,18,Male,Austin,Central,69203.79,11,1780.53,161.87,9,2026-04-16,130,Furniture,New
+CUST-0135,33,Male,Denver,Central,78150.36,11,546.48,49.68,8,2026-07-24,31,Furniture,New
+CUST-0136,69,Male,Savannah,South,93118.45,14,1069.35,76.38,13,2026-08-19,5,Office Supplies,Returning
+CUST-0137,42,Male,San Diego,West,83435.24,22,3569.35,162.24,12,2026-07-05,50,Furniture,Returning
+CUST-0138,47,Female,Pittsburgh,East,35157.73,17,1870.48,110.03,13,2026-08-02,22,Furniture,Returning
+CUST-0139,46,Male,Boulder,Central,89250.7,22,2271.98,103.27,12,2026-05-06,110,Groceries,Loyal
+CUST-0140,28,Female,Buffalo,East,94190.84,11,1841.92,167.45,9,2026-05-25,91,Groceries,New
+CUST-0141,44,Male,Savannah,South,93419.6,12,890.3,74.19,7,2026-07-08,47,Fashion,Returning
+CUST-0142,50,Female,Los Angeles,West,56953.65,23,2321.17,100.92,16,2026-07-20,35,Technology,Returning
+CUST-0143,37,Male,Boston,East,47296.41,16,1948.53,121.78,13,2026-08-19,5,Office Supplies,Loyal
+CUST-0144,49,Male,Savannah,South,78328.57,20,1389.03,69.45,11,2026-02-16,189,Home Essentials,Returning
+CUST-0145,48,Other,San Diego,West,37087.97,7,595.9,85.13,4,2026-08-15,9,Furniture,Returning
+CUST-0146,50,Female,Pittsburgh,East,66911.42,9,826.62,91.85,5,2026-04-10,136,Fashion,New
+CUST-0147,36,Female,Spokane,West,25917.89,5,477.69,95.54,5,2026-06-08,77,Furniture,New
+CUST-0148,33,Female,San Francisco,West,107165.97,10,1396.9,139.69,7,2026-07-07,48,Technology,Returning
+CUST-0149,37,Female,Denver,Central,95480.5,23,2531.12,110.05,14,2026-06-21,64,Technology,Loyal
+CUST-0150,18,Male,Denver,Central,73861.26,16,1805.87,112.87,12,2026-08-22,2,Technology,Returning
+CUST-0151,41,Male,Raleigh,South,51987.37,28,2508.8,89.6,19,2026-08-13,11,Furniture,Loyal
+CUST-0152,63,Male,Denver,Central,88233.39,6,548.5,91.42,6,2026-05-12,104,Groceries,Returning
+CUST-0153,42,Male,Spokane,West,77122.17,1,90.9,90.9,1,2026-08-08,16,Home Essentials,New
+CUST-0154,40,Female,Miami,South,59654.79,10,1012.5,101.25,8,2026-08-09,15,Office Supplies,Returning
+CUST-0155,48,Male,Boulder,Central,75793.39,7,1133.8,161.97,6,2026-07-22,33,Fashion,Returning
+CUST-0156,50,Female,Miami,South,88423.68,14,1052.98,75.21,10,2026-07-14,41,Groceries,Returning
+CUST-0157,29,Male,Savannah,South,49404.34,24,2174.04,90.59,18,2026-07-31,24,Groceries,Returning
+CUST-0158,19,Male,Dallas,Central,72688.76,10,917.22,91.72,9,2025-10-10,318,Furniture,New
+CUST-0159,40,Female,Pittsburgh,East,71884.83,14,1700.23,121.45,13,2026-08-18,6,Technology,Returning
+CUST-0160,34,Female,Miami,South,76267.5,17,2320.35,136.49,11,2026-08-20,4,Technology,Loyal
+CUST-0161,30,Female,Houston,Central,75121.97,10,1069.66,106.97,9,2026-08-19,5,Technology,Returning
+CUST-0162,56,Female,Philadelphia,East,37421.16,13,1119.36,86.1,13,2026-08-23,1,Groceries,Returning
+CUST-0163,55,Female,Atlanta,South,59974.47,13,1366.57,105.12,8,2026-04-05,141,Fashion,Returning
+CUST-0164,30,Other,Seattle,West,106203.17,22,1751.72,79.62,16,2026-06-27,58,Office Supplies,Returning
+CUST-0165,43,Female,San Francisco,West,69705.77,1,103.76,103.76,1,2026-04-08,138,Office Supplies,New
+CUST-0166,43,Male,Houston,Central,85547.09,10,1136.94,113.69,9,2026-08-13,11,Home Essentials,New
+CUST-0167,46,Female,Dallas,Central,41663.14,6,580.39,96.73,4,2026-08-08,16,Fashion,Loyal
+CUST-0168,32,Female,Boston,East,79768.24,17,1903.85,111.99,9,2026-08-03,21,Groceries,Loyal
+CUST-0169,35,Female,Raleigh,South,103907.42,5,571.49,114.3,5,2026-06-29,56,Groceries,New
+CUST-0170,41,Male,Seattle,West,53655.37,17,1894.15,111.42,14,2026-08-22,2,Fashion,Loyal
+CUST-0171,52,Male,Cambridge,East,45407.75,1,139.0,139.0,1,2026-03-31,146,Technology,New
+CUST-0172,37,Female,Eugene,West,112330.43,12,1975.22,164.6,7,2026-08-18,6,Fashion,Returning
+CUST-0173,30,Male,Chicago,Central,72661.66,5,767.7,153.54,4,2026-07-12,43,Home Essentials,New
+CUST-0174,32,Male,Pittsburgh,East,117558.9,6,792.62,132.1,4,2025-11-09,288,Office Supplies,Returning
+CUST-0175,39,Male,Raleigh,South,68706.97,10,1121.53,112.15,6,2026-08-01,23,Fashion,New
+CUST-0176,54,Female,New York City,East,90293.96,1,136.36,136.36,1,2026-08-23,1,Groceries,New
+CUST-0177,32,Male,Chicago,Central,72221.36,10,1216.97,121.7,10,2026-08-18,6,Office Supplies,Returning
+CUST-0178,45,Male,Buffalo,East,43666.16,4,366.8,91.7,4,2025-11-06,291,Groceries,New
+CUST-0179,39,Male,Cambridge,East,110243.9,2,302.06,151.03,2,2026-08-18,6,Home Essentials,Returning
+CUST-0180,18,Male,Portland,West,106089.12,3,307.1,102.37,3,2026-08-18,6,Home Essentials,Returning
+CUST-0181,47,Male,Spokane,West,44996.93,18,1825.43,101.41,17,2026-08-09,15,Furniture,Loyal
+CUST-0182,41,Female,Pittsburgh,East,82006.44,5,327.41,65.48,4,2026-08-16,8,Office Supplies,Returning
+CUST-0183,39,Female,Houston,Central,35632.86,10,1111.78,111.18,10,2025-08-24,365,Technology,New
+CUST-0184,52,Male,Denver,Central,50598.63,6,760.94,126.82,4,2026-07-17,38,Groceries,Returning
+CUST-0185,61,Male,Cambridge,East,83831.12,28,3615.46,129.12,19,2026-07-08,47,Office Supplies,Loyal
+CUST-0186,23,Male,New York City,East,109058.97,4,780.75,195.19,4,2026-07-30,25,Office Supplies,New
+CUST-0187,50,Female,Denver,Central,128158.35,15,2088.14,139.21,9,2026-02-08,197,Furniture,New
+CUST-0188,36,Male,Orlando,South,68008.06,14,1831.63,130.83,13,2026-01-02,234,Groceries,Returning
+CUST-0189,28,Male,Boston,East,22000,12,647.93,53.99,7,2026-07-27,28,Technology,Returning
+CUST-0190,45,Female,Raleigh,South,64933.78,9,615.69,68.41,8,2026-06-15,70,Fashion,Returning
+CUST-0191,20,Male,Seattle,West,40449.7,7,729.28,104.18,7,2026-08-18,6,Office Supplies,Returning
+CUST-0192,39,Female,San Francisco,West,63566.37,14,2158.13,154.15,11,2026-03-25,152,Fashion,New
+CUST-0193,56,Female,Charlotte,South,69577.16,1,59.26,59.26,1,2026-06-01,84,Technology,New
+CUST-0194,27,Male,San Diego,West,109858.97,6,906.55,151.09,6,2026-06-24,61,Fashion,Loyal
+CUST-0195,41,Female,Springfield,Central,62741.75,7,410.44,58.63,7,2026-08-20,4,Office Supplies,Returning
+CUST-0196,18,Female,Denver,Central,73918.83,3,290.81,96.94,3,2026-07-28,27,Groceries,Returning
+CUST-0197,55,Male,Pittsburgh,East,81701.11,3,378.41,126.14,2,2026-04-05,141,Groceries,New
+CUST-0198,39,Female,Philadelphia,East,48108.79,8,756.27,94.53,6,2026-06-12,73,Technology,New
+CUST-0199,30,Male,Springfield,Central,83959.39,19,1594.83,83.94,12,2026-07-31,24,Furniture,Loyal
+CUST-0200,38,Female,Dallas,Central,76085.53,19,2560.06,134.74,11,2026-06-21,64,Office Supplies,Returning
+CUST-0201,41,Female,Savannah,South,84054.57,1,97.28,97.28,1,2026-07-13,42,Furniture,Returning
+CUST-0202,49,Female,New York City,East,78761.65,13,1415.93,108.92,12,2026-05-03,113,Fashion,Returning
+CUST-0203,45,Male,Eugene,West,66497.71,6,621.6,103.6,6,2026-07-23,32,Office Supplies,Returning
+CUST-0204,34,Male,Tampa,South,73168.64,4,657.76,164.44,3,2026-04-27,119,Technology,New
+CUST-0205,30,Male,San Diego,West,34424.89,9,597.08,66.34,5,2026-08-08,16,Furniture,New
+CUST-0206,33,Male,Boulder,Central,76735.3,9,1016.59,112.95,9,2026-07-16,39,Furniture,Loyal
+CUST-0207,19,Male,Dallas,Central,83559.91,8,938.59,117.32,6,2026-06-15,70,Technology,Returning
+CUST-0208,45,Female,Pittsburgh,East,47438.99,13,1038.42,79.88,12,2026-08-13,11,Fashion,Returning
+CUST-0209,45,Female,Cambridge,East,101473.54,17,1493.34,87.84,11,2026-07-01,54,Groceries,Returning
+CUST-0210,43,Male,Pittsburgh,East,80557.93,7,824.21,117.74,6,2026-07-06,49,Furniture,Returning
+CUST-0211,18,Male,Denver,Central,110627.27,1,122.93,122.93,1,2026-04-02,144,Groceries,New
+CUST-0212,59,Female,San Diego,West,67878.72,1,127.63,127.63,1,2026-08-22,2,Technology,New
+CUST-0213,18,Female,Los Angeles,West,82610.15,28,4475.43,159.84,20,2026-06-04,81,Fashion,Loyal
+CUST-0214,47,Female,Pittsburgh,East,65127.29,6,722.68,120.45,5,2026-05-05,111,Groceries,Returning
+CUST-0215,23,Male,Houston,Central,82798.93,14,1694.62,121.04,12,2026-07-05,50,Fashion,Loyal
+CUST-0216,36,Male,Boulder,Central,79260.35,10,934.52,93.45,10,2026-06-08,77,Furniture,Returning
+CUST-0217,31,Male,Pittsburgh,East,75188.72,16,2214.84,138.43,15,2026-07-31,24,Technology,Returning
+CUST-0218,53,Female,Philadelphia,East,67358.05,17,1642.4,96.61,11,2026-08-02,22,Technology,Loyal
+CUST-0219,31,Female,Austin,Central,54993.51,7,572.29,81.76,7,2026-07-15,40,Home Essentials,Returning
+CUST-0220,37,Male,Portland,West,73630.34,8,753.16,94.15,8,2026-06-13,72,Technology,Returning
+CUST-0221,60,Male,Pittsburgh,East,60919.97,12,1368.75,114.06,7,2026-02-28,177,Home Essentials,New
+CUST-0222,35,Male,Denver,Central,100259.65,8,821.89,102.74,7,2026-08-23,1,Technology,New
+CUST-0223,35,Male,Miami,South,77176.38,6,1161.75,193.62,6,2026-08-15,9,Furniture,Loyal
+CUST-0224,28,Male,San Francisco,West,104223.53,8,795.19,99.4,5,2026-06-28,57,Home Essentials,Loyal
+CUST-0225,38,Male,Seattle,West,54740.71,13,1282.53,98.66,10,2026-07-27,28,Office Supplies,Loyal
+CUST-0226,37,Male,Cambridge,East,43408.97,8,710.56,88.82,7,2026-05-25,91,Office Supplies,New
+CUST-0227,29,Female,Boulder,Central,98906.55,9,1374.81,152.76,8,2026-07-26,29,Technology,Returning
+CUST-0228,22,Female,Boston,East,79657.15,14,2056.37,146.88,8,2026-07-24,31,Groceries,Loyal
+CUST-0229,18,Female,Philadelphia,East,128300.52,1,144.66,144.66,1,2026-04-11,135,Technology,New
+CUST-0230,18,Female,Philadelphia,East,98083.2,1,107.23,107.23,1,2026-04-10,136,Fashion,Returning
+CUST-0231,47,Female,Savannah,South,56600.71,14,1732.78,123.77,9,2025-12-22,245,Furniture,New
+CUST-0232,40,Female,Cambridge,East,78207.18,1,68.67,68.67,1,2026-07-22,33,Fashion,New
+CUST-0233,48,Female,San Francisco,West,95351.65,21,3016.58,143.65,15,2026-06-27,58,Furniture,Returning
+CUST-0234,33,Male,San Diego,West,64629.9,19,2462.2,129.59,13,2026-08-14,10,Fashion,Loyal
+CUST-0235,25,Male,Denver,Central,120032.68,6,797.81,132.97,4,2026-08-20,4,Office Supplies,New
+CUST-0236,26,Male,San Francisco,West,92279.37,1,74.65,74.65,1,2026-04-27,119,Groceries,Returning
+CUST-0237,44,Male,Seattle,West,94293.9,14,2444.96,174.64,11,2026-06-28,57,Fashion,Loyal
+CUST-0238,18,Male,Savannah,South,63784.82,1,140.88,140.88,1,2026-08-23,1,Office Supplies,Returning
+CUST-0239,33,Male,Pittsburgh,East,79122.77,23,2080.16,90.44,15,2026-07-28,27,Fashion,Returning
+CUST-0240,26,Female,Portland,West,90413.06,9,1256.76,139.64,6,2026-05-10,106,Technology,New
+CUST-0241,45,Female,Houston,Central,58967.66,6,312.51,52.08,4,2025-10-21,307,Fashion,New
+CUST-0242,38,Female,Denver,Central,90380.41,8,959.61,119.95,5,2026-08-05,19,Fashion,New
+CUST-0243,49,Female,Raleigh,South,77840.06,19,2057.73,108.3,13,2026-08-17,7,Office Supplies,Loyal
+CUST-0244,37,Male,Boulder,Central,78358.88,4,413.43,103.36,4,2026-08-01,23,Home Essentials,New
+CUST-0245,44,Female,Boston,East,86466.8,21,3441.99,163.9,13,2026-08-23,1,Office Supplies,Loyal
+CUST-0246,20,Female,San Diego,West,80102.7,22,1883.12,85.6,13,2026-01-21,215,Groceries,Returning
+CUST-0247,31,Male,Portland,West,82219.49,1,103.63,103.63,1,2026-08-15,9,Groceries,New
+CUST-0248,25,Male,Los Angeles,West,33820.91,18,1354.53,75.25,17,2026-06-27,58,Furniture,Loyal
+CUST-0249,30,Female,Los Angeles,West,22000,8,754.63,94.33,5,2026-06-05,80,Office Supplies,Returning
+CUST-0250,20,Female,Portland,West,79577.38,1,161.69,161.69,1,2026-08-11,13,Furniture,Returning
+CUST-0251,33,Female,San Diego,West,103025.71,24,2137.65,89.07,14,2026-07-26,29,Technology,Loyal
+CUST-0252,57,Male,Denver,Central,95026.3,5,649.58,129.92,3,2026-07-29,26,Furniture,New
+CUST-0253,38,Male,San Francisco,West,62829.25,4,536.55,134.14,4,2026-07-06,49,Office Supplies,Returning
+CUST-0254,38,Female,Seattle,West,68621.51,10,1118.69,111.87,6,2026-07-08,47,Technology,Returning
+CUST-0255,35,Male,Atlanta,South,58880.39,14,1611.7,115.12,8,2026-08-10,14,Groceries,Returning
+CUST-0256,30,Male,San Diego,West,57836.29,1,125.8,125.8,1,2026-08-23,1,Fashion,New
+CUST-0257,30,Male,San Diego,West,64043.4,18,2114.34,117.46,12,2026-08-19,5,Furniture,Returning
+CUST-0258,18,Female,Los Angeles,West,70367.7,5,635.72,127.14,4,2026-06-24,61,Groceries,Returning
+CUST-0259,44,Female,Dallas,Central,59757.04,12,1119.59,93.3,9,2025-12-23,244,Fashion,New
+CUST-0260,31,Male,Chicago,Central,86259.8,2,201.59,100.79,2,2026-07-21,34,Groceries,Returning
+CUST-0261,49,Female,Chicago,Central,110375.48,21,2954.82,140.71,12,2026-08-23,1,Groceries,Returning
+CUST-0262,24,Female,Spokane,West,101111.52,14,1987.75,141.98,12,2026-07-29,26,Furniture,Loyal
+CUST-0263,24,Male,New York City,East,92053.6,9,1201.64,133.52,5,2026-08-19,5,Fashion,Loyal
+CUST-0264,18,Female,Denver,Central,95011.52,13,1173.22,90.25,8,2026-06-25,60,Office Supplies,Returning
+CUST-0265,42,Male,Charlotte,South,110071.95,10,1422.86,142.29,7,2026-07-13,42,Technology,Loyal
+CUST-0266,21,Male,Savannah,South,68990.05,2,320.1,160.05,2,2026-08-02,22,Technology,Returning
+CUST-0267,33,Female,Raleigh,South,54841.73,1,110.93,110.93,1,2026-04-19,127,Technology,New
+CUST-0268,49,Female,Houston,Central,45757.2,8,979.88,122.48,8,2026-07-05,50,Groceries,Returning
+CUST-0269,39,Female,Charlotte,South,69589.16,19,2562.14,134.85,11,2025-10-19,309,Groceries,Returning
+CUST-0270,50,Male,Houston,Central,60700.98,23,2142.95,93.17,14,2026-08-19,5,Fashion,Returning
+CUST-0271,51,Male,Seattle,West,58631.93,11,1379.37,125.4,10,2026-06-17,68,Home Essentials,Returning
+CUST-0272,46,Male,Orlando,South,67176.21,20,2233.56,111.68,11,2026-08-23,1,Furniture,Returning
+CUST-0273,40,Female,New York City,East,40807.28,14,1385.1,98.94,11,2026-08-17,7,Office Supplies,Loyal
+CUST-0274,52,Male,San Diego,West,71330.84,12,1236.44,103.04,10,2026-03-01,176,Fashion,New
+CUST-0275,41,Male,Boston,East,37366.35,4,434.48,108.62,3,2026-07-27,28,Office Supplies,Returning
+CUST-0276,26,Male,Spokane,West,45729.5,6,657.72,109.62,4,2026-08-20,4,Home Essentials,Loyal
+CUST-0277,37,,Orlando,South,111567.57,9,877.02,97.45,7,2026-06-23,62,Technology,New
+CUST-0278,18,Other,Houston,Central,80138.14,17,2254.52,132.62,15,2026-07-11,44,Office Supplies,Returning
+CUST-0279,62,Female,Pittsburgh,East,37054.31,2,170.57,85.28,2,2026-04-28,118,Furniture,Returning
+CUST-0280,33,Male,New York City,East,98796.7,14,1838.94,131.35,10,2026-07-31,24,Home Essentials,Returning
+CUST-0281,29,Female,Boston,East,51958.72,27,3128.35,115.86,17,2026-04-21,125,Office Supplies,Returning
+CUST-0282,54,Female,Philadelphia,East,98331.06,6,804.74,134.12,6,2026-06-21,64,Home Essentials,New
+CUST-0283,50,Female,Orlando,South,22000,15,1769.3,117.95,12,2026-07-18,37,Technology,Loyal
+CUST-0284,37,Male,Austin,Central,154200.22,20,3317.09,165.85,12,2026-05-17,99,Technology,Loyal
+CUST-0285,50,Female,Boulder,Central,112110.28,22,3507.0,159.41,12,2026-07-25,30,Technology,New
+CUST-0286,51,Female,Raleigh,South,55907.79,26,3094.85,119.03,17,2026-08-19,5,Fashion,Loyal
+CUST-0287,38,Male,Tampa,South,92108.5,10,1266.05,126.61,6,2026-06-04,81,Fashion,Returning
+CUST-0288,46,Male,San Diego,West,34735.87,27,2284.02,84.59,16,2026-04-25,121,Office Supplies,Returning
+CUST-0289,44,Male,Dallas,Central,89090.62,22,3104.22,141.1,12,2026-08-18,6,Technology,Loyal
+CUST-0290,46,Female,Charlotte,South,89420.39,12,725.73,60.48,9,2026-08-16,8,Home Essentials,Returning
+CUST-0291,25,Male,Orlando,South,61186.4,16,1935.73,120.98,13,2026-08-06,18,Technology,Loyal
+CUST-0292,23,Female,Houston,Central,89017.35,25,2668.24,106.73,17,2026-08-12,12,Office Supplies,Returning
+CUST-0293,25,Male,Boulder,Central,52381.8,20,3489.03,174.45,13,2026-07-09,46,Furniture,Returning
+CUST-0294,38,Male,Eugene,West,34528.09,4,409.0,102.25,3,2026-05-28,88,Technology,Returning
+CUST-0295,44,Female,Chicago,Central,84189.52,25,1564.48,62.58,15,2026-08-16,8,Office Supplies,Loyal
+CUST-0296,45,Female,Philadelphia,East,108327.61,20,2386.12,119.31,16,2026-01-13,223,Fashion,Returning
+CUST-0297,44,Male,Atlanta,South,66477.93,23,2256.4,98.1,15,2026-08-23,1,Furniture,Loyal
+CUST-0298,42,Female,New York City,East,68541.43,6,549.41,91.57,6,2026-06-03,82,Technology,New
+CUST-0299,25,Male,Raleigh,South,56420.57,9,1413.14,157.02,6,2026-08-04,20,Technology,Returning
+CUST-0300,24,Female,Chicago,Central,47067.56,3,359.73,119.91,2,2026-06-27,58,Home Essentials,New
+CUST-0301,43,Female,Boulder,Central,41496.74,22,2088.92,94.95,12,2026-03-30,147,Groceries,Returning
+CUST-0302,72,Female,Springfield,Central,86448.25,10,1272.01,127.2,8,2026-08-23,1,Home Essentials,New
+CUST-0303,18,Female,Spokane,West,101207.73,29,4894.28,168.77,16,2026-06-30,55,Groceries,Loyal
+CUST-0304,47,Male,Austin,Central,72733.66,13,1299.75,99.98,7,2026-07-17,38,Home Essentials,Returning
+CUST-0305,41,Female,Austin,Central,63613.57,13,1294.43,99.57,7,2026-08-10,14,Technology,Returning
+CUST-0306,22,Male,Philadelphia,East,56480.67,16,1275.87,79.74,11,2026-07-04,51,Office Supplies,Returning
+CUST-0307,42,Female,Atlanta,South,95920.25,1,200.26,200.26,1,2026-06-01,84,Technology,New
+CUST-0308,36,Female,Springfield,Central,96223.51,16,2510.51,156.91,9,2026-04-21,125,Fashion,Returning
+CUST-0309,27,Male,Boulder,Central,75740.3,5,601.92,120.38,3,2026-03-17,160,Office Supplies,New
+CUST-0310,29,Male,Springfield,Central,73777.69,12,1402.57,116.88,11,2026-07-02,53,Technology,Returning
+CUST-0311,41,Female,Springfield,Central,45650.43,9,608.4,67.6,7,2026-08-07,17,Fashion,Returning
+CUST-0312,24,Female,Orlando,South,48717.58,1,106.46,106.46,1,2026-07-20,35,Home Essentials,New
+CUST-0313,54,Male,Spokane,West,46104.44,14,1794.59,128.18,14,2026-07-21,34,Fashion,Loyal
+CUST-0314,30,Male,New York City,East,67898.73,4,461.63,115.41,4,2026-06-09,76,Furniture,Returning
+CUST-0315,22,Male,Orlando,South,102766.16,8,793.21,99.15,8,2026-07-26,29,Technology,Loyal
+CUST-0316,30,Female,Eugene,West,100340.04,3,449.31,149.77,2,2026-07-31,24,Office Supplies,Returning
+CUST-0317,46,Male,Dallas,Central,122804.84,14,1350.21,96.44,10,2026-06-01,84,Office Supplies,Returning
+CUST-0318,56,Male,Austin,Central,81697.45,26,3431.96,132.0,14,2026-07-21,34,Home Essentials,Loyal
+CUST-0319,19,Male,Seattle,West,62645.54,24,2535.95,105.66,14,2026-08-06,18,Technology,Loyal
+CUST-0320,33,Female,Buffalo,East,87882.93,12,1098.35,91.53,8,2026-06-24,61,Technology,Returning
+CUST-0321,59,Male,Pittsburgh,East,70498.23,2,244.03,122.02,2,2026-06-17,68,Furniture,New
+CUST-0322,35,Male,Charlotte,South,53290.66,1,111.01,111.01,1,2025-12-29,238,Technology,New
+CUST-0323,38,Male,Raleigh,South,52992.94,7,968.2,138.31,6,2026-07-17,38,Office Supplies,Returning
+CUST-0324,18,Female,Spokane,West,97476.92,1,115.99,115.99,1,2026-08-16,8,Office Supplies,Returning
+CUST-0325,37,Female,Austin,Central,52566.74,21,2241.5,106.74,12,2026-08-23,1,Groceries,Loyal
+CUST-0326,46,Female,San Francisco,West,77406.17,14,1861.27,132.95,9,2026-08-19,5,Home Essentials,Returning
+CUST-0327,37,Male,Cambridge,East,74903.05,4,441.3,110.33,4,2026-03-05,172,Furniture,New
+CUST-0328,49,Female,San Diego,West,75945.44,7,526.91,75.27,5,2026-07-19,36,Home Essentials,Returning
+CUST-0329,38,Male,Pittsburgh,East,83138.83,25,2742.37,109.69,17,2026-06-11,74,Office Supplies,Loyal
+CUST-0330,63,Male,Orlando,South,44250.85,18,642.64,35.7,12,2026-08-02,22,Fashion,Returning
+CUST-0331,47,Female,Spokane,West,67650.46,12,1372.92,114.41,8,2026-06-02,83,Office Supplies,New
+CUST-0332,27,Female,Raleigh,South,51505.84,16,1481.24,92.58,12,2026-07-21,34,Fashion,Loyal
+CUST-0333,46,Male,Spokane,West,93639.1,8,950.89,118.86,5,2026-07-24,31,Technology,Returning
+CUST-0334,35,Female,Dallas,Central,70515.5,25,2863.34,114.53,14,2026-08-16,8,Fashion,Loyal
+CUST-0335,51,Female,Portland,West,82483.91,13,1555.64,119.66,11,2026-05-04,112,Office Supplies,Loyal
+CUST-0336,41,Female,Chicago,Central,53313.21,11,1069.08,97.19,9,2026-08-08,16,Furniture,Returning
+CUST-0337,29,Male,San Diego,West,78401.77,10,1343.33,134.33,6,2025-12-13,254,Office Supplies,Returning
+CUST-0338,56,Female,Atlanta,South,84350.51,1,94.05,94.05,1,2025-09-07,351,Groceries,New
+CUST-0339,45,Female,Spokane,West,52846.22,17,2184.96,128.53,10,2026-07-16,39,Home Essentials,Returning
+CUST-0340,26,Male,Portland,West,63556.54,12,1514.1,126.17,10,2026-07-18,37,Office Supplies,Returning
+CUST-0341,36,Female,New York City,East,43458.06,14,1511.47,107.96,14,2026-07-30,25,Furniture,Loyal
+CUST-0342,41,Male,Tampa,South,61651.68,12,1322.08,110.17,8,2026-08-05,19,Technology,Returning
+CUST-0343,56,Female,Savannah,South,33854.41,1,121.9,121.9,1,2026-01-30,206,Home Essentials,New
+CUST-0344,37,Male,Boulder,Central,96707.5,26,4319.55,166.14,15,2026-08-23,1,Furniture,Loyal
+CUST-0345,44,Female,New York City,East,99420.31,3,346.52,115.51,2,2026-07-19,36,Furniture,New
+CUST-0346,32,Male,Chicago,Central,104319.74,1,111.71,111.71,1,2026-01-28,208,Furniture,New
+CUST-0347,36,Male,Buffalo,East,92901.56,12,1662.03,138.5,8,2026-08-16,8,Groceries,Loyal
+CUST-0348,38,Male,Charlotte,South,73409.36,9,1487.9,165.32,8,2025-11-11,286,Fashion,Returning
+CUST-0349,41,Female,Dallas,Central,81774.6,13,1524.15,117.24,8,2026-08-21,3,Office Supplies,New
+CUST-0350,55,Female,Charlotte,South,55850.33,10,1438.94,143.89,9,2026-08-01,23,Furniture,Returning
+CUST-0351,22,Female,Seattle,West,43195.03,10,678.98,67.9,6,2026-08-19,5,Groceries,New
+CUST-0352,35,Male,Austin,Central,106223.5,14,1733.29,123.81,10,2026-07-24,31,Technology,Loyal
+CUST-0353,58,Female,Buffalo,East,52559.71,1,126.24,126.24,1,2026-02-08,197,Fashion,New
+CUST-0354,18,Female,Houston,Central,104652.53,8,1232.27,154.03,7,2026-07-04,51,Technology,Returning
+CUST-0355,68,Male,Denver,Central,42726.52,11,697.9,63.45,7,2026-07-03,52,Technology,Returning
+CUST-0356,22,Female,Denver,Central,51075.31,13,945.39,72.72,13,2026-06-15,70,Home Essentials,Returning
+CUST-0357,45,Male,Seattle,West,90684.6,9,1378.66,153.18,6,2026-08-13,11,Technology,New
+CUST-0358,34,Male,Springfield,Central,42058.16,20,2603.86,130.19,19,2026-07-25,30,Furniture,Loyal
+CUST-0359,37,Female,Orlando,South,74080.65,12,467.93,38.99,7,2026-08-12,12,Home Essentials,Returning
+CUST-0360,18,Male,Seattle,West,62088.43,10,955.41,95.54,8,2026-04-02,144,Fashion,New
+CUST-0361,51,Male,Philadelphia,East,82838.28,23,3356.39,145.93,15,2026-08-22,2,Home Essentials,Loyal
+CUST-0362,47,Female,Buffalo,East,68730.06,21,2562.34,122.02,13,2026-06-26,59,Office Supplies,Returning
+CUST-0363,18,Male,San Diego,West,84993.14,11,1071.33,97.39,8,2026-08-06,18,Fashion,Returning
+CUST-0364,19,Male,New York City,East,103134.06,17,2009.7,118.22,15,2026-08-23,1,Home Essentials,Loyal
+CUST-0365,32,Female,Eugene,West,66325.48,12,1622.76,135.23,7,2026-04-25,121,Office Supplies,New
+CUST-0366,35,Male,Eugene,West,98640.48,11,989.16,89.92,8,2026-02-09,196,Furniture,Returning
+CUST-0367,36,Female,Chicago,Central,73035.64,1,122.82,122.82,1,2026-08-05,19,Technology,Returning
+CUST-0368,48,Female,Cambridge,East,81783.13,12,1161.92,96.83,10,2026-05-23,93,Office Supplies,New
+CUST-0369,36,Male,Los Angeles,West,84278.52,1,137.74,137.74,1,2026-07-27,28,Furniture,New
+CUST-0370,34,Female,New York City,East,73262.92,17,2246.98,132.18,11,2026-08-13,11,Groceries,Loyal
+CUST-0371,25,Female,Charlotte,South,70113.79,11,846.58,76.96,7,2025-12-31,236,Fashion,Returning
+CUST-0372,37,Female,Denver,Central,80573.74,8,670.97,83.87,5,2026-06-16,69,Groceries,New
+CUST-0373,44,Female,Raleigh,South,44846.53,14,1371.45,97.96,13,2026-07-01,54,Office Supplies,Returning
+CUST-0374,29,Female,Portland,West,120612.49,3,485.12,161.71,3,2025-12-29,238,Home Essentials,Returning
+CUST-0375,20,Female,San Diego,West,72357.91,18,1733.39,96.3,12,2026-08-16,8,Groceries,Returning
+CUST-0376,57,Female,Philadelphia,East,72250.31,9,848.44,94.27,8,2026-04-06,140,Home Essentials,Returning
+CUST-0377,38,Female,Raleigh,South,51400.3,4,424.11,106.03,4,2026-07-24,31,Office Supplies,Loyal
+CUST-0378,28,Female,Portland,West,76710.87,11,1260.92,114.63,9,2026-07-23,32,Furniture,Returning
+CUST-0379,50,Female,New York City,East,56871.34,12,1266.73,105.56,8,2026-07-13,42,Office Supplies,Returning
+CUST-0380,18,Female,Houston,Central,67138.38,3,292.7,97.57,2,2026-04-06,140,Office Supplies,New
+CUST-0381,19,Male,Pittsburgh,East,61014.02,13,1060.78,81.6,9,2026-01-03,233,Technology,Returning
+CUST-0382,50,Male,Los Angeles,West,72365.08,5,502.78,100.56,4,2026-07-12,43,Groceries,Returning
+CUST-0383,39,Male,Seattle,West,46236.52,22,1691.54,76.89,13,2026-07-24,31,Home Essentials,Returning
+CUST-0384,52,Male,San Francisco,West,26065.73,4,314.42,78.6,3,2026-06-12,73,Home Essentials,New
+CUST-0385,62,Female,Orlando,South,66224.9,30,4384.75,146.16,18,2026-08-10,14,Furniture,Loyal
+CUST-0386,42,Male,Buffalo,East,44627.29,1,92.47,92.47,1,2026-06-15,70,Technology,Returning
+CUST-0387,41,Female,Los Angeles,West,48761.44,24,3090.99,128.79,14,2026-06-18,67,Groceries,Returning
+CUST-0388,37,Female,Denver,Central,46361.45,4,403.76,100.94,3,2025-08-24,365,Fashion,New
+CUST-0389,32,Male,Los Angeles,West,62013.03,3,261.64,87.21,3,2026-08-15,9,Technology,Returning
+CUST-0390,33,Female,Eugene,West,73230.62,18,3119.31,173.29,11,2026-06-28,57,Furniture,Returning
+CUST-0391,58,Male,Philadelphia,East,96854.96,14,1579.5,112.82,9,2026-06-28,57,Technology,Loyal
+CUST-0392,40,Female,Raleigh,South,29956.54,18,1786.58,99.25,11,2026-08-22,2,Technology,Returning
+CUST-0393,31,Female,Philadelphia,East,75437.23,19,2442.25,128.54,11,2026-04-10,136,Office Supplies,Returning
+CUST-0394,49,Female,Dallas,Central,61466.15,16,2000.56,125.04,12,2026-07-29,26,Office Supplies,Loyal
+CUST-0395,18,Female,Los Angeles,West,67670.86,10,1006.02,100.6,7,2026-08-18,6,Technology,Returning
+CUST-0396,46,Female,Spokane,West,25722.62,5,340.85,68.17,3,2026-04-10,136,Office Supplies,Returning
+CUST-0397,28,Male,Orlando,South,49971.4,20,2321.8,116.09,12,2026-08-11,13,Groceries,Loyal
+CUST-0398,32,Female,Boston,East,69482.1,10,1004.03,100.4,6,2026-08-15,9,Furniture,Returning
+CUST-0399,31,Female,Eugene,West,55711.64,6,770.41,128.4,4,2026-05-30,86,Home Essentials,Returning
+CUST-0400,37,Female,Dallas,Central,41612.98,1,95.66,95.66,1,2026-08-04,20,Fashion,Returning
+CUST-0401,36,Female,Houston,Central,96109.77,16,2153.97,134.62,9,2026-06-21,64,Office Supplies,Loyal
+CUST-0402,56,Male,Boston,East,27206.35,18,1648.74,91.6,13,2026-07-15,40,Furniture,Returning
+CUST-0403,49,Male,Dallas,Central,92667.91,19,3382.01,178.0,12,2026-08-09,15,Office Supplies,Returning
+CUST-0404,58,Female,Buffalo,East,62553.54,7,690.76,98.68,6,2026-07-17,38,Technology,New
+CUST-0405,41,Female,Eugene,West,57152.9,15,1621.39,108.09,12,2026-07-27,28,Home Essentials,Loyal
+CUST-0406,38,Female,Los Angeles,West,67154.15,16,1052.09,65.76,10,2026-06-10,75,Office Supplies,Returning
+CUST-0407,30,Female,Boston,East,56048.42,9,1046.6,116.29,5,2026-08-04,20,Office Supplies,Loyal
+CUST-0408,22,Male,Boston,East,119886.06,12,2028.11,169.01,12,2026-08-05,19,Groceries,Returning
+CUST-0409,40,Male,Orlando,South,110665.2,10,1358.78,135.88,7,2026-08-11,13,Office Supplies,Returning
+CUST-0410,35,Other,Denver,Central,73633.93,18,1745.52,96.97,15,2026-08-14,10,Furniture,Loyal
+CUST-0411,58,Female,Miami,South,55117.56,13,1418.92,109.15,8,2026-06-14,71,Technology,Returning
+CUST-0412,30,Female,Dallas,Central,66714.87,5,226.53,45.31,4,2026-08-23,1,Groceries,New
+CUST-0413,37,Female,Charlotte,South,22000,33,3019.32,91.49,19,2026-07-11,44,Furniture,Loyal
+CUST-0414,26,Female,Los Angeles,West,53107.47,23,2346.43,102.02,13,2026-06-30,55,Technology,Returning
+CUST-0415,25,Female,Philadelphia,East,76049.6,8,958.47,119.81,7,2026-08-14,10,Furniture,Returning
+CUST-0416,40,Female,Eugene,West,65569.81,16,1862.67,116.42,9,2026-08-22,2,Home Essentials,Loyal
+CUST-0417,38,Female,Boston,East,110376.35,14,1462.79,104.48,8,2026-07-01,54,Furniture,Returning
+CUST-0418,31,Female,Orlando,South,65307.08,9,907.9,100.88,9,2026-08-23,1,Groceries,Returning
+CUST-0419,64,Male,New York City,East,61932.63,12,1150.96,95.91,12,2026-08-16,8,Groceries,Loyal
+CUST-0420,58,Male,San Diego,West,64146.84,14,1703.16,121.65,10,2026-07-24,31,Furniture,Loyal
+CUST-0421,38,Female,Portland,West,22000,9,517.98,57.55,7,2026-07-05,50,Technology,Returning
+CUST-0422,34,Male,Denver,Central,80846.0,2,198.43,99.21,2,2026-04-26,120,Technology,Returning
+CUST-0423,48,Female,Austin,Central,73777.55,3,392.15,130.72,3,2026-07-28,27,Technology,Returning
+CUST-0424,53,Female,San Francisco,West,92865.94,4,459.55,114.89,4,2026-07-28,27,Office Supplies,New
+CUST-0425,23,Male,New York City,East,88967.3,3,352.23,117.41,3,2026-07-25,30,Office Supplies,Returning
+CUST-0426,32,Male,Raleigh,South,77603.43,1,100.86,100.86,1,2026-02-24,181,Home Essentials,New
+CUST-0427,38,Female,San Diego,West,113800.85,4,461.88,115.47,4,2026-08-19,5,Groceries,New
+CUST-0428,28,Male,Spokane,West,80643.99,26,2820.02,108.46,15,2026-07-05,50,Technology,Loyal
+CUST-0429,38,Female,Buffalo,East,66743.24,10,1087.83,108.78,7,2026-08-14,10,Groceries,New
+CUST-0430,29,Male,Chicago,Central,79974.68,5,746.19,149.24,5,2026-07-28,27,Groceries,New
+CUST-0431,50,Female,Eugene,West,96862.61,23,3396.77,147.69,14,2026-02-05,200,Technology,New
+CUST-0432,41,Female,Denver,Central,99433.6,4,543.99,136.0,4,2025-08-24,365,Fashion,New
+CUST-0433,48,Female,Raleigh,South,103343.62,11,1070.83,97.35,10,2026-08-05,19,Fashion,Loyal
+CUST-0434,34,Male,Pittsburgh,East,95751.37,3,399.11,133.04,3,2026-06-10,75,Home Essentials,Returning
+CUST-0435,30,Female,Orlando,South,91334.24,17,1704.41,100.26,14,2026-06-27,58,Office Supplies,Returning
+CUST-0436,21,Female,Raleigh,South,41980.52,8,1070.86,133.86,6,2026-07-29,26,Furniture,Returning
+CUST-0437,43,Male,Eugene,West,57123.31,15,1579.38,105.29,10,2026-05-24,92,Office Supplies,Loyal
+CUST-0438,48,Other,San Francisco,West,87978.6,9,923.33,102.59,8,2026-03-19,158,Groceries,New
+CUST-0439,48,Male,Orlando,South,61398.62,8,1295.34,161.92,5,2026-08-10,14,Home Essentials,New
+CUST-0440,39,Female,San Francisco,West,43020.46,10,1493.05,149.31,6,2025-11-26,271,Technology,New
+CUST-0441,48,Female,Dallas,Central,87772.01,12,1222.66,101.89,11,2026-05-16,100,Furniture,Loyal
+CUST-0442,42,Female,Spokane,West,104821.83,2,315.59,157.79,2,2026-07-27,28,Home Essentials,Returning
+CUST-0443,34,Male,Boulder,Central,96854.93,17,1752.17,103.07,11,2026-07-30,25,Furniture,Returning
+CUST-0444,42,Female,Charlotte,South,68826.68,9,1063.38,118.15,9,2026-05-21,95,Office Supplies,Returning
+CUST-0445,28,Female,Raleigh,South,89836.6,15,1916.53,127.77,10,2026-02-20,185,Groceries,Returning
+CUST-0446,63,Female,San Diego,West,77861.2,30,4746.19,158.21,16,2026-08-12,12,Fashion,Returning
+CUST-0447,40,Female,Miami,South,47687.06,19,2214.42,116.55,11,2026-05-09,107,Furniture,Returning
+CUST-0448,38,Male,Boulder,Central,56415.78,17,2662.97,156.65,10,2025-12-25,242,Technology,New
+CUST-0449,25,Male,Orlando,South,90320.54,4,496.71,124.18,3,2026-04-13,133,Home Essentials,New
+CUST-0450,48,Other,New York City,East,84462.69,12,1355.76,112.98,10,2026-08-23,1,Groceries,Returning
+CUST-0451,46,Male,New York City,East,85339.18,6,663.35,110.56,4,2026-08-21,3,Fashion,New
+CUST-0452,40,Other,Los Angeles,West,87697.84,6,445.18,74.2,4,2026-06-18,67,Home Essentials,Returning
+CUST-0453,40,Male,Charlotte,South,76143.9,9,1072.72,119.19,9,2026-07-02,53,Technology,Returning
+CUST-0454,64,Female,Eugene,West,70095.53,4,628.61,157.15,3,2026-03-22,155,Technology,New
+CUST-0455,28,Female,Buffalo,East,117609.03,1,130.88,130.88,1,2026-07-01,54,Home Essentials,New
+CUST-0456,68,Male,Boulder,Central,84243.48,5,597.89,119.58,3,2026-06-12,73,Fashion,New
+CUST-0457,30,Male,Buffalo,East,97672.23,8,1227.12,153.39,5,2026-04-29,117,Office Supplies,New
+CUST-0458,52,Female,Springfield,Central,60526.0,15,2101.26,140.08,14,2026-08-19,5,Office Supplies,Returning
+CUST-0459,39,Male,Denver,Central,83868.0,26,2440.05,93.85,14,2026-07-19,36,Groceries,Returning
+CUST-0460,52,Male,Miami,South,117414.84,8,1257.15,157.14,6,2026-07-18,37,Technology,New
+CUST-0461,19,Male,Boulder,Central,75439.42,1,130.15,130.15,1,2026-01-29,207,Technology,New
+CUST-0462,51,Male,Buffalo,East,84736.16,6,839.45,139.91,6,2026-08-20,4,Home Essentials,Loyal
+CUST-0463,35,Female,Portland,West,88975.56,15,1899.07,126.6,14,2026-08-01,23,Office Supplies,Returning
+CUST-0464,21,Female,Boston,East,22000,8,886.61,110.83,7,2026-06-03,82,Office Supplies,Returning
+CUST-0465,36,Female,Portland,West,80407.03,11,1244.53,113.14,7,2026-07-03,52,Home Essentials,Returning
+CUST-0466,18,Female,Eugene,West,65411.04,1,127.13,127.13,1,2026-08-23,1,Technology,Returning
+CUST-0467,56,Female,Dallas,Central,69848.24,6,611.77,101.96,5,2026-08-04,20,Technology,Returning
+CUST-0468,51,Male,Dallas,Central,70507.29,1,132.24,132.24,1,2026-07-24,31,Groceries,New
+CUST-0469,20,Female,Miami,South,77011.77,26,3212.56,123.56,14,2026-07-16,39,Groceries,Loyal
+CUST-0470,43,Male,Chicago,Central,58309.0,10,662.07,66.21,10,2026-05-19,97,Office Supplies,Returning
+CUST-0471,23,Other,Charlotte,South,51891.89,3,320.16,106.72,3,2026-08-12,12,Fashion,Returning
+CUST-0472,55,Male,Philadelphia,East,104178.26,3,344.78,114.93,2,2026-06-05,80,Office Supplies,New
+CUST-0473,47,Female,Boulder,Central,51074.28,7,813.08,116.15,7,2026-07-09,46,Office Supplies,Returning
+CUST-0474,40,Male,Cambridge,East,56340.16,11,1230.51,111.86,11,2026-05-30,86,Technology,Returning
+CUST-0475,66,Male,Pittsburgh,East,60704.69,8,949.85,118.73,5,2026-07-22,33,Technology,Returning
+CUST-0476,32,Male,Springfield,Central,39639.76,9,684.54,76.06,8,2026-07-26,29,Groceries,Loyal
+CUST-0477,48,Male,Tampa,South,74886.21,15,2056.23,137.08,12,2026-06-28,57,Office Supplies,Loyal
+CUST-0478,61,Female,Austin,Central,42583.1,16,1188.44,74.28,9,2026-08-22,2,Technology,Returning
+CUST-0479,22,Male,New York City,East,70172.16,14,1262.67,90.19,8,2026-02-06,199,Home Essentials,Returning
+CUST-0480,40,Male,Orlando,South,101105.74,8,1393.15,174.14,5,2026-07-25,30,Groceries,New
+CUST-0481,39,Male,New York City,East,108645.2,7,1041.45,148.78,6,2026-07-29,26,Home Essentials,Returning
+CUST-0482,37,Male,Pittsburgh,East,67528.86,10,661.4,66.14,7,2026-06-27,58,Fashion,Returning
+CUST-0483,33,Male,Springfield,Central,82258.92,4,573.03,143.26,3,2026-08-09,15,Office Supplies,Returning
+CUST-0484,36,Female,Eugene,West,96654.35,7,952.74,136.11,6,2026-08-20,4,Home Essentials,Returning
+CUST-0485,31,Female,New York City,East,67957.84,15,2009.01,133.93,10,2026-06-30,55,Office Supplies,Returning
+CUST-0486,36,Male,Pittsburgh,East,97337.88,10,1108.01,110.8,8,2026-06-06,79,Groceries,Returning
+CUST-0487,42,Female,Buffalo,East,89310.06,6,715.09,119.18,6,2026-08-08,16,Groceries,Returning
+CUST-0488,29,Female,Dallas,Central,59917.77,21,2225.08,105.96,16,2026-07-07,48,Office Supplies,Returning
+CUST-0489,41,Female,San Francisco,West,83743.29,20,2935.79,146.79,13,2026-07-21,34,Office Supplies,Loyal
+CUST-0490,59,Female,Springfield,Central,53213.83,14,1493.32,106.67,14,2026-06-20,65,Home Essentials,Loyal
+CUST-0491,18,Male,Boulder,Central,103236.05,11,1723.07,156.64,6,2026-02-19,186,Technology,New
+CUST-0492,49,Male,Pittsburgh,East,85354.22,11,1438.8,130.8,10,2026-07-21,34,Office Supplies,Loyal
+CUST-0493,39,Female,Philadelphia,East,71863.51,13,599.91,46.15,12,2026-08-18,6,Technology,Loyal
+CUST-0494,18,Female,Pittsburgh,East,61300.26,1,132.28,132.28,1,2026-05-08,108,Furniture,New
+CUST-0495,27,Female,Boulder,Central,53867.71,8,922.08,115.26,5,2026-06-26,59,Office Supplies,New
+CUST-0496,42,Male,Orlando,South,91218.7,3,431.38,143.79,3,2026-08-03,21,Fashion,Returning
+CUST-0497,23,Male,San Francisco,West,56663.37,8,637.48,79.68,5,2026-04-03,143,Technology,New
+CUST-0498,25,Female,Charlotte,South,93365.7,13,1876.78,144.37,11,2026-05-11,105,Office Supplies,Returning
+CUST-0499,39,Female,Savannah,South,60697.97,5,332.4,66.48,5,2026-07-21,34,Office Supplies,Returning
+CUST-0500,56,Female,Portland,West,65024.85,1,107.21,107.21,1,2026-03-16,161,Technology,New
+CUST-0501,53,Female,Springfield,Central,90471.88,1,76.34,76.34,1,2026-07-26,29,Home Essentials,New
+CUST-0502,24,Male,Dallas,Central,92439.56,1,98.11,98.11,1,2026-08-09,15,Technology,New
+CUST-0503,23,Male,Boston,East,74462.33,13,1912.98,147.15,8,2026-08-07,17,Furniture,Loyal
+CUST-0504,33,Male,Boulder,Central,72121.6,13,1489.76,114.6,8,2026-08-01,23,Groceries,Returning
+CUST-0505,24,Male,Philadelphia,East,59865.07,12,1193.14,99.43,11,2026-07-21,34,Home Essentials,Loyal
+CUST-0506,44,Female,Austin,Central,53927.97,5,529.2,105.84,4,2026-05-23,93,Office Supplies,Returning
+CUST-0507,35,Other,Los Angeles,West,79408.94,22,2942.33,133.74,13,2026-08-23,1,Office Supplies,Loyal
+CUST-0508,26,Female,Pittsburgh,East,100473.15,23,1978.12,86.01,13,2026-05-22,94,Office Supplies,Returning
+CUST-0509,48,Female,Charlotte,South,71172.01,6,667.21,111.2,4,2026-07-03,52,Home Essentials,Loyal
+CUST-0510,47,Female,Seattle,West,69476.1,15,1830.81,122.05,9,2026-07-29,26,Technology,Returning
+CUST-0511,32,Female,Houston,Central,102201.38,16,2244.6,140.29,12,2026-05-03,113,Technology,Returning
+CUST-0512,26,Male,Savannah,South,31263.42,4,412.38,103.09,3,2026-08-02,22,Technology,Returning
+CUST-0513,18,Female,San Diego,West,86483.46,21,3186.53,151.74,17,2026-07-15,40,Groceries,Loyal
+CUST-0514,46,Female,Austin,Central,109251.36,24,3211.67,133.82,14,2026-06-16,69,Furniture,Returning
+CUST-0515,30,Male,Philadelphia,East,94174.29,15,1617.09,107.81,10,2026-08-11,13,Home Essentials,Returning
+CUST-0516,32,Female,Orlando,South,70108.13,35,2970.12,84.86,21,2026-07-17,38,Groceries,Loyal
+CUST-0517,28,Male,San Diego,West,22737.55,9,692.51,76.95,7,2026-08-23,1,Technology,Returning
+CUST-0518,25,Male,Charlotte,South,46982.39,9,1077.19,119.69,9,2026-06-05,80,Groceries,Loyal
+CUST-0519,66,Female,Atlanta,South,81501.35,5,948.43,189.69,5,2026-05-30,86,Groceries,Returning
+CUST-0520,48,Female,Dallas,Central,141241.94,1,209.96,209.96,1,2026-06-17,68,Home Essentials,Returning
+CUST-0521,18,Female,Los Angeles,West,72292.89,13,1294.61,99.59,11,2026-04-18,128,Groceries,Returning
+CUST-0522,35,Other,Houston,Central,69034.08,12,1131.07,94.26,7,2026-06-29,56,Fashion,Returning
+CUST-0523,50,Female,Buffalo,East,88436.81,21,2671.52,127.22,20,2026-08-12,12,Technology,Loyal
+CUST-0524,23,Male,Tampa,South,112793.04,11,1539.99,140.0,6,2026-07-06,49,Fashion,Returning
+CUST-0525,37,Male,Buffalo,East,53207.85,9,1184.15,131.57,7,2026-07-31,24,Fashion,Returning
+CUST-0526,41,Male,Cambridge,East,59048.2,7,588.05,84.01,5,2026-08-22,2,Technology,Returning
+CUST-0527,34,Female,Spokane,West,63768.53,5,616.16,123.23,3,2026-08-22,2,Groceries,Returning
+CUST-0528,32,Female,Orlando,South,63615.06,12,1205.06,100.42,8,2026-06-16,69,Technology,New
+CUST-0529,47,Male,Houston,Central,84155.92,8,963.13,120.39,8,2026-06-20,65,Office Supplies,Loyal
+CUST-0530,25,Male,Orlando,South,101472.44,1,133.5,133.5,1,2026-08-21,3,Groceries,New
+CUST-0531,26,Female,Miami,South,66957.26,5,443.34,88.67,4,2026-07-29,26,Office Supplies,Returning
+CUST-0532,38,Male,Savannah,South,89305.18,12,1429.26,119.11,9,2026-07-19,36,Fashion,Returning
+CUST-0533,22,Female,Spokane,West,75328.14,10,1471.88,147.19,7,2026-08-11,13,Groceries,Returning
+CUST-0534,38,Male,Spokane,West,69417.28,11,1044.27,94.93,8,2026-05-22,94,Groceries,New
+CUST-0535,39,Male,Charlotte,South,91760.61,19,2394.46,126.02,11,2026-08-04,20,Technology,Returning
+CUST-0536,39,Female,Los Angeles,West,113402.16,38,4502.09,118.48,21,2026-07-08,47,Technology,Loyal
+CUST-0537,18,Male,Tampa,South,83614.26,27,3279.94,121.48,19,2026-05-04,112,Technology,Loyal
+CUST-0538,48,Female,Philadelphia,East,53282.24,4,373.29,93.32,3,2026-07-02,53,Technology,Returning
+CUST-0539,43,Female,Philadelphia,East,64887.51,11,1406.57,127.87,7,2026-04-19,127,Groceries,Returning
+CUST-0540,27,Male,Tampa,South,99430.56,14,2003.94,143.14,9,2026-06-13,72,Office Supplies,Returning
+CUST-0541,49,Male,Cambridge,East,92770.86,10,956.3,95.63,6,2026-07-20,35,Furniture,Returning
+CUST-0542,22,Female,San Francisco,West,48987.79,6,584.61,97.43,4,2026-08-06,18,Groceries,New
+CUST-0543,36,Male,Orlando,South,84308.67,10,1552.12,155.21,9,2026-08-17,7,Technology,Returning
+CUST-0544,46,Other,Tampa,South,80166.76,14,1588.63,113.47,10,2026-08-19,5,Technology,New
+CUST-0545,20,Female,Spokane,West,73479.29,5,604.04,120.81,4,2026-08-07,17,Technology,New
+CUST-0546,31,Female,Denver,Central,71695.54,7,536.41,76.63,4,2026-05-01,115,Groceries,Returning
+CUST-0547,41,Male,Tampa,South,91286.72,2,230.31,115.16,2,2026-07-01,54,Home Essentials,New
+CUST-0548,42,Other,Tampa,South,51392.39,5,661.61,132.32,3,2026-08-09,15,Technology,Returning
+CUST-0549,41,Other,Austin,Central,64942.18,11,1078.57,98.05,9,2026-08-16,8,Office Supplies,Returning
+CUST-0550,26,Male,Pittsburgh,East,111414.82,10,1449.72,144.97,10,2026-07-12,43,Fashion,Loyal
+CUST-0551,36,Female,Buffalo,East,68054.03,2,161.64,80.82,2,2026-08-22,2,Fashion,New
+CUST-0552,33,Male,Cambridge,East,114116.01,7,748.24,106.89,4,2026-08-12,12,Furniture,Returning
+CUST-0553,56,Male,Eugene,West,45579.38,13,597.37,45.95,8,2026-08-21,3,Fashion,Returning
+CUST-0554,25,Male,San Francisco,West,57033.76,2,259.75,129.88,2,2026-02-03,202,Home Essentials,New
+CUST-0555,52,Other,San Francisco,West,79824.25,13,1725.85,132.76,9,2026-06-04,81,Home Essentials,Returning
+CUST-0556,56,Female,San Diego,West,83788.2,5,551.99,110.4,5,2026-07-26,29,Home Essentials,Returning
+CUST-0557,29,Male,Philadelphia,East,50481.89,10,934.58,93.46,10,2026-06-11,74,Home Essentials,Loyal
+CUST-0558,42,Other,Savannah,South,24110.5,18,1497.67,83.2,11,2026-05-14,102,Groceries,Returning
+CUST-0559,48,Male,Los Angeles,West,76821.88,10,1142.07,114.21,7,2026-08-11,13,Office Supplies,Returning
+CUST-0560,18,Female,Denver,Central,70460.9,16,1483.04,92.69,12,2025-12-19,248,Fashion,Loyal
+CUST-0561,36,Male,Eugene,West,76371.11,6,801.32,133.55,6,2026-08-06,18,Groceries,Loyal
+CUST-0562,29,Male,Houston,Central,47883.42,11,1237.61,112.51,7,2026-08-21,3,Home Essentials,Loyal
+CUST-0563,53,Female,Eugene,West,44340.32,8,1011.42,126.43,6,2026-04-23,123,Technology,New
+CUST-0564,35,Male,Boston,East,57626.69,17,2089.6,122.92,15,2026-07-21,34,Groceries,Loyal
+CUST-0565,22,Female,Denver,Central,64586.74,9,705.28,78.36,9,2026-06-29,56,Office Supplies,Returning
+CUST-0566,44,Male,Austin,Central,88596.84,27,3348.13,124.0,15,2026-06-07,78,Technology,Returning
+CUST-0567,42,Male,Seattle,West,73634.26,1,127.37,127.37,1,2026-06-01,84,Technology,New
+CUST-0568,58,Male,Portland,West,90216.24,16,1817.78,113.61,11,2026-08-20,4,Groceries,Loyal
+CUST-0569,34,Male,Portland,West,70956.58,16,1912.8,119.55,13,2026-06-26,59,Office Supplies,Returning
+CUST-0570,18,Male,Miami,South,86225.5,10,1119.61,111.96,10,2026-08-12,12,Technology,Returning
+CUST-0571,37,Male,Boston,East,58983.21,4,470.62,117.65,3,2026-06-04,81,Technology,Returning
+CUST-0572,29,Female,Pittsburgh,East,45521.92,7,519.26,74.18,6,2026-05-30,86,Office Supplies,New
+CUST-0573,39,Male,Miami,South,69505.04,18,2000.14,111.12,11,2026-05-05,111,Office Supplies,New
+CUST-0574,36,Female,San Francisco,West,113508.53,17,1791.01,105.35,9,2026-08-02,22,Groceries,Returning
+CUST-0575,30,Male,Seattle,West,33188.79,9,682.09,75.79,5,2026-04-08,138,Furniture,Returning
+CUST-0576,35,Male,Los Angeles,West,43724.04,4,598.96,149.74,4,2026-08-21,3,Office Supplies,Returning
+CUST-0577,24,Male,Raleigh,South,84500.1,19,2294.23,120.75,12,2026-07-15,40,Fashion,Returning
+CUST-0578,18,Male,Portland,West,54913.48,22,2361.34,107.33,13,2026-08-10,14,Groceries,Returning
+CUST-0579,44,Female,New York City,East,47653.17,20,1343.72,67.19,14,2026-07-29,26,Home Essentials,Loyal
+CUST-0580,38,Male,Savannah,South,111585.39,9,995.61,110.62,6,2026-06-09,76,Fashion,Loyal
+CUST-0581,56,Male,Buffalo,East,71295.52,10,619.48,61.95,8,2025-10-26,302,Technology,Returning
+CUST-0582,42,Female,Atlanta,South,88221.18,16,2356.47,147.28,14,2026-07-21,34,Technology,Loyal
+CUST-0583,50,Female,Atlanta,South,79308.8,17,3002.27,176.6,14,2026-03-29,148,Home Essentials,Returning
+CUST-0584,39,Male,New York City,East,71570.75,9,1192.32,132.48,7,2026-04-27,119,Fashion,New
+CUST-0585,31,Female,Orlando,South,57349.0,1,114.22,114.22,1,2026-08-09,15,Office Supplies,New
+CUST-0586,36,Male,San Francisco,West,106749.93,20,1808.75,90.44,12,2026-08-21,3,Fashion,Loyal
+CUST-0587,42,Female,Portland,West,65746.25,8,1159.42,144.93,6,2026-07-20,35,Furniture,Returning
+CUST-0588,18,Female,Pittsburgh,East,58023.9,11,1547.7,140.7,8,2026-07-27,28,Home Essentials,Loyal
+CUST-0589,33,Female,Boston,East,52913.13,13,588.85,45.3,8,2026-06-28,57,Home Essentials,Returning
+CUST-0590,35,Male,Seattle,West,80302.3,3,445.61,148.54,3,2026-08-23,1,Fashion,Returning
+CUST-0591,43,Male,Houston,Central,83127.81,8,1231.79,153.97,8,2026-05-08,108,Home Essentials,Returning
+CUST-0592,43,Female,Atlanta,South,52504.57,8,462.24,57.78,7,2026-06-04,81,Technology,Returning
+CUST-0593,37,Other,Miami,South,83540.39,18,2591.11,143.95,10,2026-08-09,15,Home Essentials,Returning
+CUST-0594,35,Male,Boulder,Central,73937.94,17,1576.03,92.71,12,2026-08-01,23,Fashion,Returning
+CUST-0595,33,Male,Raleigh,South,30003.52,1,67.05,67.05,1,2026-08-13,11,Technology,New
+CUST-0596,38,Female,Savannah,South,53382.75,1,82.45,82.45,1,2026-03-18,159,Home Essentials,Returning
+CUST-0597,35,Female,Raleigh,South,65608.21,6,732.82,122.14,4,2026-03-15,162,Furniture,New
+CUST-0598,38,Female,Portland,West,84260.55,2,272.94,136.47,2,2026-08-04,20,Technology,Returning
+CUST-0599,35,Male,Chicago,Central,89364.38,18,2655.56,147.53,13,2026-08-15,9,Fashion,Loyal
+CUST-0600,51,Male,Orlando,South,49124.04,15,1517.97,101.2,10,2026-08-05,19,Fashion,Loyal
+CUST-0601,51,Female,Philadelphia,East,94696.72,8,810.96,101.37,8,2026-05-04,112,Office Supplies,Returning
+CUST-0602,41,Male,Atlanta,South,61362.75,1,98.44,98.44,1,2026-05-22,94,Furniture,New
+CUST-0603,33,Female,Los Angeles,West,68264.92,5,596.8,119.36,3,2026-07-07,48,Fashion,Returning
+CUST-0604,25,Female,Boulder,Central,,14,1292.46,92.32,8,2026-08-06,18,Technology,Returning
+CUST-0605,40,Female,Miami,South,58590.41,13,1253.3,96.41,9,2026-04-20,126,Fashion,Returning
+CUST-0606,33,Female,Boulder,Central,91731.23,2,309.88,154.94,2,2026-08-22,2,Technology,Returning
+CUST-0607,42,Female,Orlando,South,32207.67,6,518.42,86.4,6,2026-08-15,9,Fashion,Returning
+CUST-0608,32,Female,San Francisco,West,69319.41,10,1026.75,102.67,10,2026-08-10,14,Furniture,Loyal
+CUST-0609,37,Male,Pittsburgh,East,79947.05,11,1431.22,130.11,8,2026-07-27,28,Technology,New
+CUST-0610,30,Male,Savannah,South,67276.32,1,98.22,98.22,1,2026-05-10,106,Furniture,Returning
+CUST-0611,21,Female,Tampa,South,58376.48,8,1157.09,144.64,8,2026-07-03,52,Furniture,Returning
+CUST-0612,24,Female,New York City,East,74302.86,14,1611.14,115.08,13,2026-07-18,37,Technology,Returning
+CUST-0613,44,Male,Charlotte,South,83238.11,1,83.02,83.02,1,2026-07-30,25,Technology,New
+CUST-0614,23,Male,Denver,Central,100301.17,2,178.29,89.15,2,2026-07-29,26,Home Essentials,Returning
+CUST-0615,45,Female,Raleigh,South,89941.33,6,861.51,143.59,6,2026-04-07,139,Groceries,New
+CUST-0616,31,Male,Savannah,South,40060.02,1,103.17,103.17,1,2026-07-01,54,Groceries,New
+CUST-0617,49,Female,New York City,East,60560.23,3,373.17,124.39,3,2026-07-12,43,Fashion,Returning
+CUST-0618,39,Male,Los Angeles,West,65636.46,17,1549.3,91.14,14,2026-08-20,4,Furniture,Returning
+CUST-0619,28,Male,Los Angeles,West,86258.22,18,2406.53,133.7,17,2026-07-24,31,Technology,Returning
+CUST-0620,32,Female,Pittsburgh,East,102798.78,15,2596.02,173.07,8,2026-08-11,13,Groceries,Returning
+CUST-0621,37,Female,Spokane,West,77387.65,16,1817.35,113.58,11,2026-08-23,1,Office Supplies,Returning
+CUST-0622,18,Female,San Diego,West,50842.97,3,318.68,106.23,2,2026-08-10,14,Groceries,Returning
+CUST-0623,39,Female,Philadelphia,East,41986.48,5,241.97,48.39,5,2026-07-17,38,Technology,Returning
+CUST-0624,33,Female,San Diego,West,86327.96,6,437.08,72.85,4,2026-06-22,63,Technology,New
+CUST-0625,45,Male,New York City,East,93921.77,15,2561.59,170.77,9,2026-05-05,111,Groceries,New
+CUST-0626,20,Male,Atlanta,South,76235.79,19,1546.31,81.38,11,2026-08-12,12,Home Essentials,Loyal
+CUST-0627,35,Female,Philadelphia,East,66459.26,10,1391.36,139.14,6,2025-08-24,365,Office Supplies,New
+CUST-0628,36,Male,Cambridge,East,42903.22,12,1104.54,92.04,12,2026-06-25,60,Groceries,Loyal
+CUST-0629,44,Male,Cambridge,East,57060.71,18,2492.53,138.47,12,2026-08-07,17,Office Supplies,Loyal
+CUST-0630,46,Male,Cambridge,East,37400.3,8,1019.84,127.48,6,2026-08-20,4,Home Essentials,Returning
+CUST-0631,49,Male,Denver,Central,54320.46,13,1534.87,118.07,9,2026-06-16,69,Technology,Returning
+CUST-0632,43,Male,Houston,Central,113282.69,13,1906.93,146.69,8,2026-08-15,9,Groceries,Loyal
+CUST-0633,47,Male,San Francisco,West,120690.36,1,98.29,98.29,1,2026-02-07,198,Furniture,New
+CUST-0634,34,Female,Pittsburgh,East,67317.18,11,992.52,90.23,7,2026-07-31,24,Office Supplies,Returning
+CUST-0635,61,Male,Denver,Central,62674.13,15,1733.84,115.59,9,2026-08-10,14,Home Essentials,Returning
+CUST-0636,44,Male,Spokane,West,88065.52,6,733.38,122.23,4,2026-07-14,41,Groceries,New
+CUST-0637,55,Other,Raleigh,South,87356.47,3,420.43,140.14,3,2026-05-17,99,Groceries,Returning
+CUST-0638,34,Female,Tampa,South,49396.18,10,1208.58,120.86,8,2026-08-11,13,Fashion,Returning
+CUST-0639,37,Female,Los Angeles,West,88782.82,11,1311.39,119.22,7,2026-07-26,29,Home Essentials,Returning
+CUST-0640,22,Female,Denver,Central,121333.55,8,938.78,117.35,5,2026-08-16,8,Furniture,Returning
+CUST-0641,36,Male,Boulder,Central,42677.71,17,1489.53,87.62,11,2026-08-10,14,Groceries,Loyal
+CUST-0642,49,Male,Boston,East,61224.32,15,2114.63,140.98,13,2026-08-23,1,Fashion,Loyal
+CUST-0643,50,Male,New York City,East,95185.57,9,1098.49,122.05,8,2026-05-06,110,Furniture,Returning
+CUST-0644,32,Male,Atlanta,South,46007.33,9,659.02,73.22,5,2026-07-27,28,Furniture,New
+CUST-0645,42,Male,Miami,South,66081.49,18,2332.88,129.6,11,2026-06-14,71,Technology,Loyal
+CUST-0646,40,Male,San Francisco,West,71467.42,18,1982.13,110.12,12,2026-08-08,16,Groceries,Loyal
+CUST-0647,53,Male,Orlando,South,90464.79,1,204.42,204.42,1,2026-07-20,35,Furniture,New
+CUST-0648,28,Male,Boston,East,97734.93,13,1492.45,114.8,8,2026-06-17,68,Groceries,Loyal
+CUST-0649,31,Male,Raleigh,South,42542.64,13,846.81,65.14,8,2026-05-08,108,Furniture,New
+CUST-0650,33,Male,Denver,Central,88431.74,26,3390.27,130.4,22,2026-08-07,17,Home Essentials,Loyal
+CUST-0651,49,Female,Pittsburgh,East,62629.07,8,1042.11,130.26,8,2026-05-12,104,Home Essentials,Returning
+CUST-0652,18,Male,New York City,East,62000.0,17,1111.13,65.36,14,2026-07-18,37,Technology,Loyal
+CUST-0653,50,Female,Atlanta,South,72334.36,2,250.19,125.09,2,2026-05-19,97,Groceries,New
+CUST-0654,37,Female,Atlanta,South,97991.14,3,418.5,139.5,2,2026-05-30,86,Office Supplies,Returning
+CUST-0655,35,Male,Pittsburgh,East,90278.45,7,673.6,96.23,6,2026-08-06,18,Office Supplies,Returning
+CUST-0656,45,Female,Savannah,South,45804.6,10,722.76,72.28,6,2026-07-20,35,Groceries,Loyal
+CUST-0657,58,Male,San Francisco,West,50942.77,16,1127.92,70.49,9,2026-08-11,13,Home Essentials,Returning
+CUST-0658,45,Female,San Diego,West,50063.9,9,767.29,85.25,9,2026-05-24,92,Office Supplies,Returning
+CUST-0659,47,Female,San Diego,West,92723.51,16,1390.84,86.93,12,2026-04-23,123,Office Supplies,Loyal
+CUST-0660,24,Female,New York City,East,55218.82,21,2344.1,111.62,12,2026-05-01,115,Groceries,Returning
+CUST-0661,33,Female,Dallas,Central,67104.78,25,3626.97,145.08,21,2026-06-26,59,Groceries,Loyal
+CUST-0662,49,Female,Austin,Central,61658.83,6,741.91,123.65,6,2026-07-26,29,Office Supplies,Loyal
+CUST-0663,55,Female,Orlando,South,59865.58,2,177.65,88.83,2,2026-08-11,13,Groceries,Returning
+CUST-0664,24,Female,Chicago,Central,50942.39,21,1276.09,60.77,17,2026-08-23,1,Furniture,Returning
+CUST-0665,18,Male,San Francisco,West,96550.13,11,1712.04,155.64,7,2026-04-12,134,Fashion,Returning
+CUST-0666,25,Male,Denver,Central,82372.76,2,242.29,121.15,2,2026-08-10,14,Technology,New
+CUST-0667,53,Male,Tampa,South,37310.24,13,1554.89,119.61,10,2026-07-28,27,Fashion,Loyal
+CUST-0668,24,Female,Miami,South,43786.49,14,2265.34,161.81,8,2026-06-21,64,Technology,Returning
+CUST-0669,29,Male,Boston,East,70761.23,13,1797.29,138.25,10,2026-05-20,96,Technology,New
+CUST-0670,44,Female,Seattle,West,40814.42,7,810.09,115.73,4,2026-07-16,39,Office Supplies,Returning
+CUST-0671,28,Male,Eugene,West,90336.46,21,3234.98,154.05,13,2026-08-03,21,Furniture,Returning
+CUST-0672,31,Male,Boulder,Central,59129.49,7,554.86,79.27,7,2026-02-14,191,Technology,Returning
+CUST-0673,25,Female,Tampa,South,97180.02,17,1647.46,96.91,15,2026-08-02,22,Furniture,Loyal
+CUST-0674,29,Female,Orlando,South,91990.32,12,1669.16,139.1,9,2026-06-16,69,Office Supplies,Returning
+CUST-0675,50,Male,Austin,Central,55071.86,18,2365.53,131.42,11,2026-08-13,11,Furniture,Loyal
+CUST-0676,38,Male,Spokane,West,90808.21,3,445.12,148.37,2,2026-01-14,222,Groceries,New
+CUST-0677,58,Female,Dallas,Central,62551.5,12,1140.61,95.05,7,2026-04-30,116,Office Supplies,Returning
+CUST-0678,31,Female,Los Angeles,West,87622.03,21,3098.63,147.55,13,2026-08-11,13,Home Essentials,Returning
+CUST-0679,40,Male,Denver,Central,74107.78,14,974.79,69.63,11,2026-07-29,26,Furniture,Loyal
+CUST-0680,35,Female,Charlotte,South,89404.87,6,554.71,92.45,5,2026-08-12,12,Home Essentials,Returning
+CUST-0681,49,Female,Orlando,South,63236.98,22,2199.28,99.97,12,2026-08-23,1,Groceries,Loyal
+CUST-0682,37,Male,Raleigh,South,63258.4,22,2080.28,94.56,13,2026-07-02,53,Fashion,Returning
+CUST-0683,21,Female,Spokane,West,71639.48,23,2790.08,121.31,13,2026-07-04,51,Office Supplies,Loyal
+CUST-0684,48,Female,Atlanta,South,61960.02,1,140.0,140.0,1,2026-07-25,30,Office Supplies,Returning
+CUST-0685,57,Male,Houston,Central,72013.83,4,364.49,91.12,3,2026-06-14,71,Technology,Returning
+CUST-0686,33,Female,Boulder,Central,80810.67,13,1709.12,131.47,13,2026-06-15,70,Fashion,Returning
+CUST-0687,45,Male,Austin,Central,72329.02,8,954.79,119.35,7,2026-08-08,16,Home Essentials,Returning
+CUST-0688,41,Female,Portland,West,83907.27,9,837.22,93.02,7,2026-07-17,38,Groceries,New
+CUST-0689,41,Female,Dallas,Central,101928.56,7,999.33,142.76,5,2026-05-15,101,Technology,Returning
+CUST-0690,33,Female,Atlanta,South,87870.51,25,3867.88,154.72,15,2026-08-15,9,Office Supplies,Loyal
+CUST-0691,61,Male,Savannah,South,97234.34,7,1073.71,153.39,4,2026-08-21,3,Technology,Loyal
+CUST-0692,41,Male,Los Angeles,West,93046.38,2,326.54,163.27,2,2026-06-28,57,Furniture,New
+CUST-0693,42,Male,Chicago,Central,52417.79,6,723.57,120.59,6,2026-08-01,23,Groceries,Returning
+CUST-0694,39,Male,Seattle,West,64556.52,5,308.83,61.77,3,2026-07-09,46,Office Supplies,Returning
+CUST-0695,28,Male,Cambridge,East,93323.3,4,550.53,137.63,4,2026-05-05,111,Home Essentials,Returning
+CUST-0696,30,Male,Springfield,Central,108149.85,24,2506.0,104.42,13,2026-08-22,2,Furniture,Loyal
+CUST-0697,31,Male,Raleigh,South,83764.92,9,986.86,109.65,6,2026-06-20,65,Groceries,New
+CUST-0698,61,Male,Atlanta,South,65879.99,15,2359.23,157.28,14,2026-08-11,13,Groceries,Loyal
+CUST-0699,34,Female,Boston,East,94352.26,8,978.85,122.36,5,2026-08-02,22,Technology,Returning
+CUST-0700,47,Female,Dallas,Central,79127.18,7,883.36,126.19,7,2026-06-07,78,Office Supplies,Returning
+CUST-0701,21,Female,Dallas,Central,61705.15,16,1339.83,83.74,10,2025-12-11,256,Furniture,Returning
+CUST-0702,42,Female,Denver,Central,34956.12,1,110.05,110.05,1,2026-08-07,17,Office Supplies,New
+CUST-0703,26,Male,Charlotte,South,22731.37,3,291.6,97.2,2,2026-05-09,107,Fashion,New
+CUST-0704,41,Male,Raleigh,South,76431.85,12,915.32,76.28,11,2026-06-25,60,Technology,Loyal
+CUST-0705,25,Male,Philadelphia,East,66704.43,13,1842.83,141.76,10,2026-08-05,19,Fashion,New
+CUST-0706,45,Female,Philadelphia,East,46396.29,7,984.23,140.6,5,2026-08-15,9,Technology,New
+CUST-0707,33,Male,Miami,South,85751.55,18,2104.02,116.89,13,2026-07-09,46,Office Supplies,Returning
+CUST-0708,35,Female,Miami,South,59088.19,13,1300.61,100.05,10,2026-08-17,7,Fashion,Returning
+CUST-0709,18,Female,Portland,West,53076.26,1,144.57,144.57,1,2025-08-24,365,Groceries,New
+CUST-0710,38,Male,Miami,South,67302.28,6,852.23,142.04,6,2026-08-17,7,Groceries,Loyal
+CUST-0711,38,Male,Seattle,West,75358.47,14,2868.34,204.88,11,2026-04-20,126,Technology,Loyal
+CUST-0712,29,Female,Chicago,Central,63497.83,12,1286.2,107.18,9,2026-08-16,8,Technology,Loyal
+CUST-0713,25,Female,Charlotte,South,92756.83,1,121.71,121.71,1,2026-04-09,137,Office Supplies,New
+CUST-0714,18,Other,Boulder,Central,101500.84,27,3634.07,134.6,15,2026-08-19,5,Groceries,Loyal
+CUST-0715,39,Female,Cambridge,East,67864.8,15,1266.44,84.43,15,2026-06-19,66,Furniture,Loyal
+CUST-0716,38,Female,Denver,Central,22376.88,10,1081.43,108.14,8,2026-06-09,76,Groceries,Returning
+CUST-0717,18,Male,Atlanta,South,66576.67,8,1013.62,126.7,7,2026-04-15,131,Technology,New
+CUST-0718,23,Female,Portland,West,79435.29,1,146.11,146.11,1,2025-09-26,332,Office Supplies,New
+CUST-0719,38,Male,Atlanta,South,79641.61,2,200.09,100.04,2,2026-01-26,210,Fashion,New
+CUST-0720,24,Male,Houston,Central,90316.27,10,1751.08,175.11,9,2026-08-07,17,Home Essentials,Loyal
+CUST-0721,28,Male,Pittsburgh,East,43062.4,10,1408.71,140.87,10,2026-07-12,43,Technology,Returning
+CUST-0722,35,Male,Chicago,Central,76792.89,7,770.77,110.11,4,2026-04-09,137,Home Essentials,Returning
+CUST-0723,21,Female,Spokane,West,71527.14,23,4233.79,184.08,14,2026-06-19,66,Office Supplies,Loyal
+CUST-0724,43,Male,Boston,East,85273.26,17,2264.54,133.21,10,2026-07-18,37,Groceries,Loyal
+CUST-0725,33,Male,Dallas,Central,46668.27,27,3132.94,116.03,17,2026-07-28,27,Fashion,Loyal
+CUST-0726,44,Female,Savannah,South,70549.35,6,614.93,102.49,4,2026-07-24,31,Furniture,New
+CUST-0727,29,Female,Savannah,South,57932.09,5,452.77,90.55,5,2026-07-12,43,Office Supplies,Returning
+CUST-0728,39,Male,Denver,Central,70853.02,10,1533.52,153.35,9,2026-08-06,18,Technology,Loyal
+CUST-0729,57,Female,Austin,Central,81085.53,14,2324.69,166.05,13,2026-06-03,82,Fashion,Returning
+CUST-0730,42,Male,Austin,Central,110611.94,4,444.61,111.15,3,2026-06-24,61,Technology,Returning
+CUST-0731,52,Male,Buffalo,East,88207.47,10,894.23,89.42,8,2026-05-11,105,Furniture,Returning
+CUST-0732,41,Female,Chicago,Central,109459.8,22,2664.88,121.13,12,2026-08-06,18,Groceries,Returning
+CUST-0733,29,Male,Buffalo,East,97250.38,1,159.34,159.34,1,2026-07-26,29,Fashion,Returning
+CUST-0734,34,Female,Los Angeles,West,72191.75,7,448.76,64.11,5,2026-07-02,53,Technology,Returning
+CUST-0735,18,Female,Atlanta,South,59541.23,6,359.55,59.93,5,2026-01-06,230,Groceries,Returning
+CUST-0736,68,Male,Charlotte,South,52919.39,8,692.17,86.52,5,2026-07-20,35,Groceries,Returning
+CUST-0737,33,Female,Pittsburgh,East,68983.27,12,1843.82,153.65,9,2026-08-06,18,Fashion,Returning
+CUST-0738,53,Male,New York City,East,72468.82,22,2398.76,109.03,13,2026-07-24,31,Technology,Loyal
+CUST-0739,24,Female,Boston,East,71223.04,2,182.86,91.43,2,2026-03-17,160,Furniture,New
+CUST-0740,32,Female,Springfield,Central,50489.03,5,343.85,68.77,4,2026-05-02,114,Office Supplies,New
+CUST-0741,26,Female,Spokane,West,81042.33,10,1290.7,129.07,8,2026-08-07,17,Fashion,Returning
+CUST-0742,43,Female,Savannah,South,114330.97,3,401.61,133.87,3,2026-07-07,48,Groceries,Returning
+CUST-0743,34,Female,Boulder,Central,29191.45,29,2824.52,97.4,16,2026-06-11,74,Office Supplies,Loyal
+CUST-0744,29,Female,Buffalo,East,91792.13,23,3668.06,159.48,15,2026-05-03,113,Fashion,Returning
+CUST-0745,30,Male,Raleigh,South,60158.85,13,1742.8,134.06,12,2026-08-07,17,Groceries,Loyal
+CUST-0746,33,Female,San Diego,West,87074.5,7,662.75,94.68,7,2026-04-26,120,Office Supplies,Returning
+CUST-0747,41,Female,Philadelphia,East,105157.53,11,1489.44,135.4,11,2026-06-05,80,Fashion,Returning
+CUST-0748,45,Male,Raleigh,South,49303.75,12,1037.15,86.43,9,2026-05-27,89,Groceries,Returning
+CUST-0749,39,Male,Savannah,South,54245.66,8,1075.57,134.45,5,2026-05-09,107,Office Supplies,New
+CUST-0750,33,Female,Charlotte,South,96436.99,14,1808.39,129.17,13,2026-07-16,39,Home Essentials,Returning
+CUST-0751,33,Male,Seattle,West,31025.55,2,197.8,98.9,2,2026-04-15,131,Office Supplies,New
+CUST-0752,34,Female,Cambridge,East,107587.63,10,1486.68,148.67,10,2026-07-31,24,Home Essentials,Returning
+CUST-0753,36,Female,Atlanta,South,66520.82,1,137.82,137.82,1,2026-06-15,70,Office Supplies,New
+CUST-0754,18,Female,Orlando,South,40264.18,10,904.16,90.42,6,2026-03-02,175,Furniture,New
+CUST-0755,18,Male,Dallas,Central,59493.75,13,2551.19,196.25,8,2026-08-09,15,Groceries,Returning
+CUST-0756,43,Male,Buffalo,East,37609.88,7,681.46,97.35,5,2026-08-19,5,Furniture,Returning
+CUST-0757,44,Male,Boulder,Central,31543.22,5,594.79,118.96,4,2026-08-05,19,Home Essentials,New
+CUST-0758,46,Female,Orlando,South,69479.4,14,2039.96,145.71,9,2026-07-01,54,Groceries,Loyal
+CUST-0759,47,Male,Los Angeles,West,66460.88,13,805.53,61.96,13,2026-07-20,35,Fashion,Returning
+CUST-0760,44,Female,Portland,West,34633.75,17,2700.91,158.88,12,2026-07-31,24,Groceries,Returning
+CUST-0761,33,Male,Charlotte,South,57196.72,7,1194.6,170.66,7,2026-05-01,115,Office Supplies,Returning
+CUST-0762,23,Female,Philadelphia,East,85101.65,16,1613.01,100.81,14,2026-06-23,62,Furniture,Returning
+CUST-0763,44,Male,Denver,Central,90840.97,7,767.23,109.6,4,2026-05-20,96,Groceries,Returning
+CUST-0764,22,Female,San Diego,West,95885.98,9,1441.43,160.16,6,2026-06-18,67,Furniture,Returning
+CUST-0765,36,Male,Charlotte,South,80931.58,1,103.96,103.96,1,2026-08-11,13,Groceries,Returning
+CUST-0766,49,Male,Philadelphia,East,127360.55,1,134.37,134.37,1,2026-07-30,25,Groceries,New
+CUST-0767,35,Male,Springfield,Central,44827.61,7,892.13,127.45,7,2026-08-16,8,Technology,Returning
+CUST-0768,53,Female,San Francisco,West,87282.31,17,1893.23,111.37,16,2026-07-10,45,Groceries,Returning
+CUST-0769,38,Female,Savannah,South,72093.86,5,854.76,170.95,5,2025-11-22,275,Home Essentials,Returning
+CUST-0770,32,Male,Savannah,South,73163.07,11,1522.86,138.44,11,2026-07-17,38,Groceries,Returning
+CUST-0771,32,Female,Philadelphia,East,60854.85,1,83.36,83.36,1,2026-07-18,37,Office Supplies,New
+CUST-0772,41,Female,Raleigh,South,56985.76,6,712.64,118.77,5,2026-06-30,55,Office Supplies,Returning
+CUST-0773,50,Female,Spokane,West,92073.09,9,931.74,103.53,6,2026-04-06,140,Fashion,Returning
+CUST-0774,18,Male,Savannah,South,46910.77,14,1581.48,112.96,11,2026-08-17,7,Groceries,Returning
+CUST-0775,34,Male,Atlanta,South,74318.85,13,1482.81,114.06,10,2026-07-23,32,Office Supplies,Loyal
+CUST-0776,47,Female,Spokane,West,73253.86,27,3583.73,132.73,15,2026-06-29,56,Office Supplies,Loyal
+CUST-0777,48,Female,Cambridge,East,108161.3,10,897.04,89.7,7,2026-07-29,26,Furniture,Returning
+CUST-0778,61,Male,San Francisco,West,75023.33,15,1917.26,127.82,9,2026-08-02,22,Groceries,New
+CUST-0779,37,Female,San Francisco,West,70372.58,14,1970.92,140.78,11,2026-08-07,17,Furniture,Loyal
+CUST-0780,33,Female,Pittsburgh,East,52308.99,8,1117.48,139.68,5,2026-07-10,45,Technology,Returning
+CUST-0781,27,Male,Denver,Central,62454.8,8,969.05,121.13,7,2026-05-01,115,Office Supplies,Returning
+CUST-0782,24,Male,Tampa,South,73215.27,11,1140.29,103.66,8,2026-05-27,89,Technology,New
+CUST-0783,37,Female,Spokane,West,125442.66,1,163.1,163.1,1,2026-05-31,85,Furniture,New
+CUST-0784,38,Female,Savannah,South,94632.33,11,1160.04,105.46,8,2026-05-03,113,Technology,Returning
+CUST-0785,36,Male,Miami,South,91473.34,25,2743.77,109.75,18,2026-06-16,69,Groceries,Loyal
+CUST-0786,29,Female,San Francisco,West,52057.67,5,806.19,161.24,3,2026-06-22,63,Groceries,New
+CUST-0787,63,Female,Spokane,West,66975.04,16,2028.35,126.77,9,2026-05-23,93,Fashion,New
+CUST-0788,57,Female,Cambridge,East,68108.49,19,2378.16,125.17,11,2026-08-14,10,Technology,Returning
+CUST-0789,18,Male,Portland,West,47025.71,15,1416.74,94.45,11,2026-08-20,4,Technology,Loyal
+CUST-0790,53,Female,Dallas,Central,63295.46,7,569.93,81.42,6,2026-07-07,48,Office Supplies,Returning
+CUST-0791,47,Female,Chicago,Central,102170.96,21,2476.06,117.91,13,2026-07-01,54,Furniture,Returning
+CUST-0792,32,Female,Houston,Central,46099.03,1,108.27,108.27,1,2026-01-25,211,Home Essentials,New
+CUST-0793,40,Male,Houston,Central,65466.59,10,1325.9,132.59,6,2026-06-03,82,Office Supplies,Loyal
+CUST-0794,35,Male,Denver,Central,76711.18,10,1042.37,104.24,9,2026-08-13,11,Fashion,Returning
+CUST-0795,38,Male,Boston,East,47116.06,1,98.75,98.75,1,2026-05-21,95,Technology,New
+CUST-0796,36,Male,Miami,South,66995.76,12,1751.79,145.98,11,2026-08-14,10,Fashion,Loyal
+CUST-0797,41,Female,San Diego,West,101976.68,16,1493.81,93.36,9,2026-03-01,176,Office Supplies,Returning
+CUST-0798,47,Female,New York City,East,70315.68,7,889.5,127.07,6,2026-07-27,28,Fashion,Returning
+CUST-0799,33,Male,San Francisco,West,66178.79,10,1231.19,123.12,8,2026-08-08,16,Groceries,Returning
+CUST-0800,28,Female,Spokane,West,65511.4,13,1915.52,147.35,8,2026-03-16,161,Furniture,New
+CUST-0801,18,Male,Chicago,Central,117019.04,9,2012.99,223.67,7,2026-04-15,131,Office Supplies,Loyal
+CUST-0802,42,Male,Houston,Central,47033.05,6,541.0,90.17,5,2026-08-22,2,Fashion,Returning
+CUST-0803,44,Female,Boston,East,67758.24,31,4145.51,133.73,20,2026-08-10,14,Office Supplies,Loyal
+CUST-0804,30,Male,Denver,Central,80039.04,4,445.41,111.35,3,2026-03-31,146,Office Supplies,Returning
+CUST-0805,44,Female,Charlotte,South,111329.52,4,627.07,156.77,3,2026-08-12,12,Groceries,New
+CUST-0806,28,Female,New York City,East,62740.69,5,403.02,80.6,4,2026-08-22,2,Technology,New
+CUST-0807,52,Female,Orlando,South,79226.96,6,724.74,120.79,6,2026-03-30,147,Technology,New
+CUST-0808,46,Female,San Diego,West,57861.24,3,463.16,154.39,3,2026-08-17,7,Groceries,New
+CUST-0809,36,Male,Spokane,West,95648.18,10,1337.81,133.78,9,2026-07-06,49,Furniture,Returning
+CUST-0810,39,Male,Eugene,West,78526.47,1,110.72,110.72,1,2025-11-03,294,Technology,New
+CUST-0811,69,Male,Austin,Central,77064.35,5,792.47,158.49,4,2026-08-23,1,Technology,New
+CUST-0812,45,Female,Boulder,Central,81358.3,8,1182.3,147.79,7,2026-07-11,44,Fashion,New
+CUST-0813,28,Female,Buffalo,East,54401.52,5,559.68,111.94,3,2026-06-21,64,Technology,Returning
+CUST-0814,41,Female,Cambridge,East,78522.74,21,2890.4,137.64,16,2026-07-10,45,Groceries,Loyal
+CUST-0815,37,,Miami,South,72616.6,17,1461.51,85.97,12,2026-08-20,4,Home Essentials,Loyal
+CUST-0816,62,Male,Charlotte,South,52867.91,1,112.84,112.84,1,2026-07-21,34,Technology,New
+CUST-0817,58,Female,Dallas,Central,76921.82,29,1851.16,63.83,16,2026-08-04,20,Groceries,Returning
+CUST-0818,45,Female,Philadelphia,East,45053.09,18,2032.15,112.9,15,2026-08-04,20,Home Essentials,Returning
+CUST-0819,59,Female,Dallas,Central,66064.75,13,1306.39,100.49,8,2026-01-11,225,Furniture,New
+CUST-0820,41,Male,Spokane,West,90325.21,13,1398.11,107.55,9,2026-06-10,75,Office Supplies,Loyal
+CUST-0821,57,Male,Seattle,West,103815.9,1,110.31,110.31,1,2025-12-07,260,Technology,New
+CUST-0822,41,Male,New York City,East,54865.98,19,2797.19,147.22,11,2026-06-28,57,Fashion,Returning
+CUST-0823,36,Female,Tampa,South,70691.11,10,1248.51,124.85,8,2026-07-28,27,Fashion,Returning
+CUST-0824,35,Female,Boulder,Central,60217.62,12,1188.74,99.06,8,2026-03-27,150,Fashion,New
+CUST-0825,35,Other,Cambridge,East,115021.33,16,2063.84,128.99,9,2026-07-20,35,Groceries,Returning
+CUST-0826,18,Female,Spokane,West,102786.86,8,874.4,109.3,8,2026-08-07,17,Groceries,Returning
+CUST-0827,40,Female,Chicago,Central,56597.09,12,1875.76,156.31,11,2026-07-18,37,Groceries,Loyal
+CUST-0828,54,Female,Houston,Central,64313.96,15,1671.84,111.46,11,2025-12-31,236,Furniture,Returning
+CUST-0829,20,Female,Savannah,South,49145.3,20,1530.39,76.52,12,2026-08-23,1,Fashion,Loyal
+CUST-0830,47,Male,Tampa,South,95175.91,21,2381.68,113.41,15,2026-06-17,68,Furniture,Loyal
+CUST-0831,46,Female,Atlanta,South,93565.61,5,891.1,178.22,5,2026-08-13,11,Furniture,Returning
+CUST-0832,26,Female,Tampa,South,87675.06,9,962.41,106.93,7,2026-03-08,169,Furniture,Returning
+CUST-0833,47,Male,Eugene,West,126255.41,9,1754.23,194.91,6,2026-04-30,116,Fashion,Returning
+CUST-0834,35,Female,Tampa,South,58792.54,1,115.5,115.5,1,2026-01-02,234,Furniture,New
+CUST-0835,45,Female,Miami,South,65283.87,20,2061.2,103.06,11,2026-08-20,4,Technology,Loyal
+CUST-0836,34,Female,Miami,South,97181.8,4,523.88,130.97,3,2026-08-09,15,Technology,Returning
+CUST-0837,48,Female,Raleigh,South,60278.16,8,872.59,109.07,5,2026-07-09,46,Home Essentials,New
+CUST-0838,18,Male,San Diego,West,72350.55,6,611.2,101.87,6,2026-06-18,67,Furniture,Returning
+CUST-0839,32,Female,Boulder,Central,88524.67,7,498.4,71.2,7,2026-03-07,170,Technology,New
+CUST-0840,23,Male,San Francisco,West,74382.7,19,1192.79,62.78,11,2026-07-05,50,Fashion,Loyal
+CUST-0841,26,Male,Boston,East,126463.57,14,2020.67,144.33,9,2026-08-03,21,Office Supplies,Returning
+CUST-0842,58,Female,San Francisco,West,108799.94,1,123.41,123.41,1,2026-08-23,1,Fashion,New
+CUST-0843,46,Male,Boston,East,88222.36,21,2169.22,103.3,12,2026-08-09,15,Technology,Returning
+CUST-0844,38,Female,Boston,East,71355.21,10,1295.61,129.56,7,2026-07-15,40,Office Supplies,Returning
+CUST-0845,28,Female,Boston,East,46718.53,6,481.96,80.33,5,2026-07-15,40,Fashion,Returning
+CUST-0846,33,Female,Seattle,West,65903.33,6,645.2,107.53,6,2026-08-15,9,Groceries,Returning
+CUST-0847,22,Male,Los Angeles,West,67508.13,9,557.52,61.95,6,2026-07-26,29,Office Supplies,New
+CUST-0848,26,Male,Atlanta,South,87026.32,3,394.21,131.4,2,2026-08-22,2,Office Supplies,Returning
+CUST-0849,53,Female,Eugene,West,78745.84,7,811.21,115.89,5,2026-08-23,1,Groceries,Returning
+CUST-0850,36,Female,Miami,South,58908.63,28,3678.75,131.38,16,2026-07-18,37,Office Supplies,Loyal
+CUST-0851,32,Female,San Francisco,West,87050.06,10,989.31,98.93,7,2026-07-26,29,Office Supplies,Returning
+CUST-0852,53,Male,Denver,Central,46167.85,6,533.68,88.95,5,2026-07-25,30,Groceries,Returning
+CUST-0853,37,Male,Houston,Central,98280.11,4,554.4,138.6,3,2026-08-01,23,Office Supplies,Returning
+CUST-0854,48,Female,Buffalo,East,86341.98,6,744.25,124.04,5,2026-08-08,16,Fashion,Returning
+CUST-0855,18,Male,Los Angeles,West,70783.75,12,1768.01,147.33,11,2026-02-17,188,Office Supplies,Returning
+CUST-0856,38,Male,Tampa,South,56064.02,9,903.55,100.39,8,2026-06-18,67,Office Supplies,Returning
+CUST-0857,32,Female,Portland,West,64563.47,8,807.79,100.97,5,2026-06-22,63,Technology,Returning
+CUST-0858,22,Female,New York City,East,102034.21,20,2551.81,127.59,11,2026-06-06,79,Technology,Returning
+CUST-0859,18,Male,Denver,Central,51971.4,11,1343.76,122.16,8,2026-08-11,13,Technology,Loyal
+CUST-0860,39,Male,Seattle,West,87077.71,5,807.08,161.42,5,2026-07-19,36,Furniture,New
+CUST-0861,25,Female,New York City,East,50872.07,15,1589.8,105.99,11,2026-02-16,189,Office Supplies,Returning
+CUST-0862,50,Female,Chicago,Central,70563.61,8,819.61,102.45,6,2026-08-15,9,Furniture,Returning
+CUST-0863,27,Female,New York City,East,78041.64,7,852.16,121.74,4,2026-07-06,49,Fashion,New
+CUST-0864,18,Male,Pittsburgh,East,85366.44,8,850.58,106.32,5,2026-08-18,6,Office Supplies,Returning
+CUST-0865,23,Male,New York City,East,43326.04,6,772.98,128.83,4,2026-05-07,109,Furniture,Returning
+CUST-0866,48,Female,San Diego,West,92166.18,5,461.4,92.28,4,2026-08-19,5,Technology,Returning
+CUST-0867,29,Male,Charlotte,South,84858.9,11,1379.68,125.43,11,2026-04-05,141,Fashion,Loyal
+CUST-0868,46,Male,Los Angeles,West,94994.38,11,1562.65,142.06,8,2026-08-22,2,Groceries,Returning
+CUST-0869,50,Male,Buffalo,East,32289.59,7,710.18,101.45,5,2026-08-07,17,Technology,Returning
+CUST-0870,39,Female,Eugene,West,37874.18,5,884.36,176.87,3,2026-05-28,88,Fashion,New
+CUST-0871,48,Male,Boulder,Central,35103.83,1,163.73,163.73,1,2026-08-08,16,Furniture,New
+CUST-0872,22,Male,Los Angeles,West,74552.59,10,982.27,98.23,10,2026-06-04,81,Office Supplies,Returning
+CUST-0873,56,Male,Miami,South,101149.63,27,3780.94,140.03,15,2026-07-28,27,Furniture,New
+CUST-0874,56,Male,Seattle,West,103137.46,11,1587.54,144.32,11,2026-05-25,91,Fashion,Returning
+CUST-0875,48,Female,Raleigh,South,57498.1,7,698.22,99.75,6,2026-05-21,95,Fashion,Returning
+CUST-0876,29,Female,Savannah,South,84772.17,1,196.57,196.57,1,2026-06-21,64,Furniture,New
+CUST-0877,42,Male,San Diego,West,116754.35,7,754.5,107.79,4,2026-07-02,53,Furniture,Returning
+CUST-0878,23,Female,Boulder,Central,49265.93,18,2135.46,118.64,10,2026-05-13,103,Technology,Returning
+CUST-0879,47,Female,San Francisco,West,105747.03,13,1472.4,113.26,10,2026-08-06,18,Technology,Loyal
+CUST-0880,40,Other,Boulder,Central,63898.04,5,630.62,126.12,5,2026-07-26,29,Office Supplies,Returning
+CUST-0881,36,Female,Chicago,Central,79950.17,1,93.52,93.52,1,2026-07-05,50,Office Supplies,Returning
+CUST-0882,36,Female,New York City,East,89378.41,12,1711.23,142.6,12,2026-06-02,83,Fashion,Loyal
+CUST-0883,42,Female,Savannah,South,72219.17,18,1822.82,101.27,10,2026-06-24,61,Groceries,Loyal
+CUST-0884,49,Female,Boston,East,61990.31,1,107.99,107.99,1,2026-08-06,18,Technology,Returning
+CUST-0885,46,Female,Charlotte,South,63438.72,12,1000.19,83.35,10,2026-06-22,63,Office Supplies,Returning
+CUST-0886,27,Other,Spokane,West,40114.13,10,1409.94,140.99,10,2026-08-23,1,Furniture,Returning
+CUST-0887,38,Female,Savannah,South,89109.5,1,89.75,89.75,1,2026-07-01,54,Office Supplies,New
+CUST-0888,34,Male,Boulder,Central,36099.37,17,1317.55,77.5,9,2026-07-07,48,Furniture,Returning
+CUST-0889,18,Female,Austin,Central,94342.58,22,4097.98,186.27,13,2026-05-16,100,Groceries,Returning
+CUST-0890,30,Male,Raleigh,South,86441.16,14,1305.42,93.24,11,2026-08-19,5,Fashion,Returning
+CUST-0891,68,Female,Los Angeles,West,68726.94,24,2282.84,95.12,16,2026-08-23,1,Technology,Loyal
+CUST-0892,26,Female,San Francisco,West,96856.26,17,1916.24,112.72,10,2026-08-19,5,Technology,Loyal
+CUST-0893,32,Male,Portland,West,43044.7,6,722.66,120.44,4,2026-07-03,52,Technology,Returning
+CUST-0894,54,Male,Spokane,West,59255.92,24,2455.37,102.31,16,2026-06-23,62,Office Supplies,Returning
+CUST-0895,40,Male,Eugene,West,63127.48,9,386.36,42.93,7,2026-05-12,104,Home Essentials,Returning
+CUST-0896,30,Female,Buffalo,East,100151.97,1,78.62,78.62,1,2026-03-22,155,Technology,New
+CUST-0897,43,Female,Denver,Central,50006.94,1,97.58,97.58,1,2026-06-28,57,Technology,Returning
+CUST-0898,60,Female,Orlando,South,57363.94,2,238.36,119.18,2,2026-06-22,63,Office Supplies,Returning
+CUST-0899,34,Male,Tampa,South,68698.92,17,1783.22,104.9,15,2026-08-22,2,Furniture,Loyal
+CUST-0900,37,Male,Dallas,Central,83843.27,21,4699.15,223.77,12,2026-04-16,130,Fashion,Loyal
+CUST-0901,43,Other,Savannah,South,77362.19,4,374.09,93.52,4,2026-08-21,3,Fashion,Loyal
+CUST-0902,30,Female,Boston,East,83355.98,5,409.87,81.97,3,2026-07-25,30,Fashion,Returning
+CUST-0903,33,Female,Chicago,Central,49084.56,9,890.02,98.89,9,2026-06-25,60,Technology,New
+CUST-0904,38,Male,Boston,East,88423.06,13,994.43,76.49,7,2026-04-13,133,Technology,Returning
+CUST-0905,54,Male,Cambridge,East,44864.17,9,863.78,95.98,6,2026-05-13,103,Furniture,New
+CUST-0906,55,Female,Boulder,Central,30430.19,10,1293.19,129.32,7,2026-08-08,16,Groceries,Returning
+CUST-0907,23,Male,Houston,Central,43427.63,13,958.63,73.74,13,2026-08-10,14,Technology,Returning
+CUST-0908,37,Male,Spokane,West,103313.9,1,127.74,127.74,1,2026-06-20,65,Fashion,Returning
+CUST-0909,54,Female,Pittsburgh,East,83294.16,1,124.38,124.38,1,2026-07-06,49,Fashion,Returning
+CUST-0910,57,Male,San Francisco,West,75690.12,14,1721.04,122.93,9,2026-06-11,74,Furniture,Returning
+CUST-0911,43,Female,Charlotte,South,,1,112.71,112.71,1,2026-06-15,70,Fashion,New
+CUST-0912,32,Male,Los Angeles,West,22000,7,889.69,127.1,5,2026-08-20,4,Groceries,Returning
+CUST-0913,41,Female,Orlando,South,55858.85,16,2270.59,141.91,9,2026-06-21,64,Furniture,New
+CUST-0914,31,Female,Miami,South,69741.84,7,850.67,121.52,6,2026-06-09,76,Technology,Returning
+CUST-0915,43,Male,Portland,West,111619.57,11,1671.95,152.0,8,2026-02-13,192,Home Essentials,Returning
+CUST-0916,53,Male,San Francisco,West,70933.11,14,1614.34,115.31,13,2026-07-13,42,Office Supplies,Loyal
+CUST-0917,40,Female,Tampa,South,85502.08,2,291.67,145.84,2,2026-08-23,1,Technology,Returning
+CUST-0918,50,Female,Seattle,West,81838.58,1,135.67,135.67,1,2026-08-06,18,Home Essentials,New
+CUST-0919,18,Male,Spokane,West,92524.86,1,83.24,83.24,1,2026-04-16,130,Technology,New
+CUST-0920,34,Male,Boulder,Central,79141.53,5,556.91,111.38,5,2026-08-13,11,Fashion,Returning
+CUST-0921,50,Other,Philadelphia,East,73933.32,4,470.61,117.65,3,2026-04-18,128,Technology,New
+CUST-0922,37,Male,San Diego,West,84627.51,1,153.15,153.15,1,2026-03-24,153,Technology,New
+CUST-0923,40,Male,Houston,Central,70471.11,14,1912.68,136.62,8,2026-07-27,28,Home Essentials,Returning
+CUST-0924,36,Female,New York City,East,52565.48,12,1456.71,121.39,7,2026-07-22,33,Furniture,Returning
+CUST-0925,35,Male,Seattle,West,73275.78,14,1780.46,127.18,11,2026-07-30,25,Furniture,Loyal
+CUST-0926,27,Male,Chicago,Central,60551.09,6,670.66,111.78,5,2026-08-23,1,Home Essentials,New
+CUST-0927,43,Other,Houston,Central,42161.02,3,234.08,78.03,3,2026-07-13,42,Technology,New
+CUST-0928,38,Male,Springfield,Central,85696.04,9,1441.8,160.2,8,2026-08-02,22,Furniture,Loyal
+CUST-0929,32,Female,Tampa,South,86805.62,8,1486.59,185.82,7,2026-06-09,76,Technology,Loyal
+CUST-0930,24,Female,Spokane,West,101790.41,14,1678.21,119.87,9,2026-07-19,36,Fashion,Returning
+CUST-0931,30,Female,Boston,East,67376.13,20,2457.55,122.88,11,2026-05-27,89,Office Supplies,Loyal
+CUST-0932,58,Male,Tampa,South,44139.09,1,123.59,123.59,1,2026-05-07,109,Furniture,Returning
+CUST-0933,44,Other,San Francisco,West,63613.14,8,447.09,55.89,5,2026-07-29,26,Groceries,Returning
+CUST-0934,56,Female,Houston,Central,82523.64,3,340.29,113.43,2,2026-06-19,66,Fashion,Returning
+CUST-0935,59,Female,Tampa,South,69274.47,5,764.29,152.86,5,2026-08-02,22,Groceries,Returning
+CUST-0936,70,Female,Denver,Central,120152.41,27,2543.56,94.21,18,2026-08-23,1,Fashion,Loyal
+CUST-0937,50,Male,Pittsburgh,East,48617.55,7,983.13,140.45,5,2026-08-18,6,Groceries,New
+CUST-0938,42,Male,Boston,East,96010.24,1,128.45,128.45,1,2026-07-28,27,Fashion,New
+CUST-0939,46,Male,Atlanta,South,63074.41,6,992.61,165.43,4,2026-05-26,90,Groceries,New
+CUST-0940,26,Male,Spokane,West,57588.47,28,2248.12,80.29,16,2026-07-13,42,Office Supplies,Returning
+CUST-0941,23,Female,Raleigh,South,64909.49,1,155.05,155.05,1,2026-06-10,75,Office Supplies,New
+CUST-0942,54,Female,San Francisco,West,96257.95,6,904.25,150.71,6,2026-07-24,31,Home Essentials,Loyal
+CUST-0943,24,Female,Denver,Central,77004.44,28,1839.75,65.71,18,2026-08-12,12,Office Supplies,Loyal
+CUST-0944,52,Male,Seattle,West,52269.6,10,1150.42,115.04,8,2026-08-14,10,Office Supplies,Returning
+CUST-0945,22,Female,Miami,South,98010.78,9,632.39,70.27,5,2026-07-03,52,Groceries,New
+CUST-0946,37,Male,Chicago,Central,54666.8,1,100.93,100.93,1,2026-05-28,88,Technology,New
+CUST-0947,45,Male,Houston,Central,38830.34,16,1473.53,92.1,10,2026-07-16,39,Office Supplies,Returning
+CUST-0948,53,Female,Chicago,Central,69479.4,20,949.04,47.45,13,2026-02-25,180,Furniture,Returning
+CUST-0949,55,Female,Orlando,South,71176.54,14,1786.62,127.62,8,2026-06-12,73,Furniture,Loyal
+CUST-0950,54,Male,Springfield,Central,77157.3,2,236.53,118.26,2,2026-07-15,40,Technology,New
+CUST-0951,48,Male,Spokane,West,58646.15,1,87.8,87.8,1,2026-08-15,9,Groceries,New
+CUST-0952,52,Male,Spokane,West,104589.78,1,126.8,126.8,1,2026-08-11,13,Home Essentials,New
+CUST-0953,46,Female,Philadelphia,East,97645.02,12,1800.53,150.04,12,2026-07-20,35,Groceries,Loyal
+CUST-0954,21,Female,Portland,West,53537.51,16,1459.8,91.24,9,2026-07-25,30,Office Supplies,Returning
+CUST-0955,49,Female,Charlotte,South,82683.75,9,1437.25,159.69,7,2026-08-18,6,Home Essentials,Returning
+CUST-0956,52,Male,Philadelphia,East,58299.46,12,763.31,63.61,7,2026-07-22,33,Office Supplies,Returning
+CUST-0957,44,Female,Springfield,Central,64219.27,5,390.75,78.15,4,2026-07-24,31,Fashion,Returning
+CUST-0958,38,Female,Portland,West,74152.7,12,1445.15,120.43,12,2026-08-11,13,Furniture,Returning
+CUST-0959,52,Male,Boulder,Central,73122.99,10,1376.14,137.61,9,2026-08-05,19,Groceries,Loyal
+CUST-0960,23,Female,Raleigh,South,57581.79,16,1649.39,103.09,10,2026-07-07,48,Fashion,Returning
+CUST-0961,60,Male,Houston,Central,67357.95,16,1526.28,95.39,10,2026-07-24,31,Office Supplies,Loyal
+CUST-0962,36,Female,Savannah,South,76269.84,1,160.37,160.37,1,2026-08-20,4,Office Supplies,Returning
+CUST-0963,40,Female,Los Angeles,West,76048.84,6,675.38,112.56,4,2026-04-05,141,Office Supplies,Returning
+CUST-0964,35,Female,San Francisco,West,43159.11,15,1236.66,82.44,10,2026-06-07,78,Technology,Returning
+CUST-0965,56,Male,Cambridge,East,52595.23,3,301.11,100.37,3,2026-06-28,57,Groceries,New
+CUST-0966,42,Female,San Francisco,West,64848.19,5,510.24,102.05,4,2026-08-05,19,Home Essentials,Returning
+CUST-0967,23,Male,Charlotte,South,73624.14,2,198.83,99.42,2,2026-04-22,124,Office Supplies,New
+CUST-0968,31,Male,Pittsburgh,East,36458.59,7,662.77,94.68,6,2026-07-24,31,Office Supplies,Returning
+CUST-0969,29,Female,Houston,Central,105770.92,1,115.88,115.88,1,2026-01-07,229,Groceries,New
+CUST-0970,20,Female,Raleigh,South,85052.08,19,2725.9,143.47,14,2026-08-14,10,Office Supplies,Loyal
+CUST-0971,45,Female,Charlotte,South,62054.27,5,472.7,94.54,4,2026-04-29,117,Groceries,Returning
+CUST-0972,60,Male,Boulder,Central,97776.07,13,1459.36,112.26,12,2026-05-24,92,Technology,Returning
+CUST-0973,39,Female,Atlanta,South,59600.33,1,77.7,77.7,1,2026-07-11,44,Groceries,New
+CUST-0974,50,Female,Spokane,West,84505.74,6,491.63,81.94,6,2026-06-18,67,Groceries,Returning
+CUST-0975,29,Female,Denver,Central,83404.2,15,1482.56,98.84,10,2026-08-20,4,Technology,Loyal
+CUST-0976,38,Male,Portland,West,54100.04,1,130.33,130.33,1,2026-08-23,1,Home Essentials,New
+CUST-0977,52,Male,Springfield,Central,88319.59,1,119.7,119.7,1,2026-06-09,76,Fashion,New
+CUST-0978,18,Female,Pittsburgh,East,99332.14,3,383.16,127.72,2,2026-07-20,35,Furniture,New
+CUST-0979,43,Male,Atlanta,South,133713.58,4,621.46,155.37,3,2026-08-19,5,Technology,Returning
+CUST-0980,43,Male,Denver,Central,70388.27,27,3331.24,123.38,16,2026-07-06,49,Technology,Loyal
+CUST-0981,43,Female,Orlando,South,91875.97,1,118.31,118.31,1,2026-06-19,66,Technology,Returning
+CUST-0982,69,Female,Austin,Central,106268.62,4,418.97,104.74,4,2026-06-17,68,Home Essentials,Returning
+CUST-0983,53,Male,Houston,Central,59336.45,25,1305.81,52.23,15,2026-06-03,82,Office Supplies,Returning
+CUST-0984,24,Male,Atlanta,South,95135.84,7,769.66,109.95,7,2026-07-31,24,Fashion,Returning
+CUST-0985,34,Male,Orlando,South,74368.3,22,3150.59,143.21,19,2026-06-29,56,Home Essentials,Loyal
+CUST-0986,39,Female,Savannah,South,96724.71,1,102.4,102.4,1,2026-08-17,7,Home Essentials,Returning
+CUST-0987,18,Male,Spokane,West,107910.59,11,976.98,88.82,8,2026-08-22,2,Office Supplies,Returning
+CUST-0988,32,Male,Boston,East,107200.4,7,1015.84,145.12,7,2026-05-24,92,Office Supplies,Returning
+CUST-0989,47,Male,Dallas,Central,104926.08,7,1071.93,153.13,5,2026-08-13,11,Office Supplies,Returning
+CUST-0990,38,Female,Denver,Central,84880.36,9,1168.95,129.88,5,2026-06-09,76,Fashion,New
+CUST-0991,57,Female,Orlando,South,27028.89,3,268.4,89.47,2,2026-08-10,14,Technology,Returning
+CUST-0992,39,Female,Chicago,Central,115021.85,21,2737.3,130.35,13,2026-08-06,18,Groceries,Returning
+CUST-0993,18,Female,Philadelphia,East,62622.49,7,781.15,111.59,6,2026-06-13,72,Groceries,New
+CUST-0994,61,Female,Raleigh,South,74440.97,1,107.24,107.24,1,2026-06-02,83,Technology,New
+CUST-0995,18,Male,Charlotte,South,33537.23,18,1614.24,89.68,11,2026-08-03,21,Technology,Returning
+CUST-0996,42,Female,Cambridge,East,87444.54,7,892.04,127.43,5,2026-08-13,11,Furniture,Returning
+CUST-0997,44,Female,Buffalo,East,78928.93,19,2206.94,116.15,11,2026-08-02,22,Groceries,Loyal
+CUST-0998,18,Male,Boulder,Central,94608.78,22,2565.48,116.61,12,2026-08-06,18,Office Supplies,Returning
+CUST-0999,53,Male,San Francisco,West,46082.67,22,3000.16,136.37,12,2026-07-05,50,Fashion,Returning
+CUST-1000,46,Male,Tampa,South,144485.34,7,1000.38,142.91,5,2026-08-21,3,Fashion,Returning
